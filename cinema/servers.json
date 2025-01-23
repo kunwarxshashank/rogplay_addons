@@ -4,12 +4,7 @@
       "movieurl": "https://rogplay.site/api/rogflix/movies?id=${tmdb}",
       "title": "title",
       "url": "file",
-      "id": "id",
-      "headers": {
-        "referer": "https://example.com/",
-        "origin": "https://origin.com/",
-        "api_key": "1234xdsdhs"
-      }
+      "id": "id"
   },
  {
       "tvurl": "https://rogplay.site/api/allmovie/series?id=${tmdb}&season=${season}&episode=${episode}",
