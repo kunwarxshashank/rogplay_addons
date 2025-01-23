@@ -4,6 +4,6 @@
     "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/tmdb.jpg",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplaycinema/refs/heads/main/servers.json",
     "type": "cinema",
-    "description": "to wait for their existence Hello world how are you have"
+    "description": "Addons to fetch movies, series, animes from different sources using tmdb api."
   }
 ]
