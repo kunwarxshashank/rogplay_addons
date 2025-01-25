@@ -2,7 +2,7 @@
   {
     "title": "Jio TV",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
-    "url": "https://5hrr.short.gy/jio.cdn.m3u8",
+    "url": "https://rogplay.live/api/livetv/jiotv.php",
     "type": "livetv",
     "version": "1.0",
     "description": "800+ Indian TV Channels from JIOTV"
@@ -10,7 +10,7 @@
   {
     "title": "Sony Liv",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/sonyliv.jpg",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/sonyliv.json",
+    "url": "https://rogplay.live/api/livetv/sonyliv.json",
     "type": "movie",
     "version": "1.0",
     "description": "Watch All Live Tv Channels of Sony Liv"
@@ -24,19 +24,35 @@
     "description": "Live TV Channels Scrapped from voot and jiocinema"
   },
   {
+    "title": "Zee5",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/zee5.jpg",
+    "url": "https://rogplay.live/api/livetv/zee5.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Live TV Channels Scrapped from voot and jiocinema"
+  },
+  {
     "title": "Fancode",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/fancode.jpg",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/testsrc/refs/heads/main/sample.m3u",
+    "url": "https://rogplay.live/api/livetv/fancode.php",
     "type": "livetv",
     "version": "1.0",
     "description": "Watch All Fancode Events and Sports in HD"
   },
     {
     "title": "CricHD",
-    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/crichd.jpg",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/crichd.json",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/crichd.png",
+    "url": "https://rogplay.live/api/livetv/crichd.json",
     "type": "livetv",
     "version": "1.0",
     "description": "Watch All Cric HD Sports Channels live"
+  },
+  {
+    "title": "Mxplayer TV",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/mxplayer.png",
+    "url": "https://rogplay.live/api/livetv/mxplayer.json",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Free Channels available on MX Player"
   }
 ]
