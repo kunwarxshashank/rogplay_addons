@@ -16,12 +16,12 @@
     "description": "Watch All Live Tv Channels of Sony Liv"
   },
   {
-    "title": "Voot",
+    "title": "DaddyLive",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/voot.jpg",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/testsrc/refs/heads/main/script.json",
+    "url": "https://rogplay.live/api/livetv/daddylive.json",
     "type": "livetv",
     "version": "1.0",
-    "description": "Live TV Channels Scrapped from voot and jiocinema"
+    "description": "Watch Daddylive streams Ad-free"
   },
   {
     "title": "Zee5",
@@ -29,7 +29,7 @@
     "url": "https://rogplay.live/api/livetv/zee5.php",
     "type": "livetv",
     "version": "1.0",
-    "description": "Live TV Channels Scrapped from voot and jiocinema"
+    "description": "Exclusive LiveTV Channels of ZEE 5 Ott."
   },
   {
     "title": "Fancode",
