@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Jio TV",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/jiotv.json",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "800+ Indian TV Channels from JIOTV"
+  },
+  {
+    "title": "Sony Liv",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/sonyliv.jpg",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/sonyliv.json",
+    "type": "movie",
+    "version": "1.0",
+    "description": "Watch All Live Tv Channels of Sony Liv"
+  },
+  {
+    "title": "Voot",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/voot.jpg",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/testsrc/refs/heads/main/script.json",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Live TV Channels Scrapped from voot and jiocinema"
+  },
+  {
+    "title": "Fancode",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/fancode.jpg",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/testsrc/refs/heads/main/sample.m3u",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Watch All Fancode Events and Sports in HD"
+  },
+    {
+    "title": "CricHD",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/fancode.jpg",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/crichd.json",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Watch All Cric HD Sports Channels live"
+  }
+]
