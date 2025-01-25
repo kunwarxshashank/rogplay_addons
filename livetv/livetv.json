@@ -33,7 +33,7 @@
   },
     {
     "title": "CricHD",
-    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/fancode.jpg",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/crichd.jpg",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/crichd.json",
     "type": "livetv",
     "version": "1.0",
