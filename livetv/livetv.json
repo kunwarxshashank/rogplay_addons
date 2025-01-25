@@ -2,7 +2,7 @@
   {
     "title": "Jio TV",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/jiotv.json",
+    "url": "https://5hrr.short.gy/jio.cdn.m3u8",
     "type": "livetv",
     "version": "1.0",
     "description": "800+ Indian TV Channels from JIOTV"
