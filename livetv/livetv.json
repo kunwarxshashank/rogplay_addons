@@ -17,7 +17,7 @@
   },
   {
     "title": "DaddyLive",
-    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/voot.jpg",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/daddylive.webp",
     "url": "https://rogplay.live/api/livetv/daddylive.json",
     "type": "livetv",
     "version": "1.0",
