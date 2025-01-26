@@ -11,9 +11,17 @@
     "title": "Sony Liv",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/sonyliv.jpg",
     "url": "https://rogplay.live/api/livetv/sonyliv.json",
-    "type": "movie",
+    "type": "livetv",
     "version": "1.0",
     "description": "Watch All Live Tv Channels of Sony Liv"
+  },
+  {
+    "title": "Sony Live Events",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/sonyliv.jpg",
+    "url": "https://rogplay.live/api/livetv/sonylive.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Live Events From Sony Liv"
   },
   {
     "title": "DaddyLive",
