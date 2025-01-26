@@ -21,7 +21,7 @@
     "url": "https://rogplay.live/api/livetv/sonylive.php",
     "type": "livetv",
     "version": "1.0",
-    "description": "Live Events From Sony Liv"
+    "description": "Live Events From Sony Liv -  By DRMLIVE"
   },
   {
     "title": "DaddyLive",
@@ -45,7 +45,7 @@
     "url": "https://rogplay.live/api/livetv/fancode.php",
     "type": "livetv",
     "version": "1.0",
-    "description": "Watch All Fancode Events and Sports in HD"
+    "description": "Watch All Fancode Events and Sports - By ByteCapsule"
   },
     {
     "title": "CricHD",
