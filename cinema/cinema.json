@@ -1,5 +1,7 @@
 [
   {
+    "version": "1.0",
+    "author": "HIGHRISK",
     "title": "TMDB Cinema",
     "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/tmdb.jpg",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/servers.json",
