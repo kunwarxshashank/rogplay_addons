@@ -1,6 +1,14 @@
 [
   {
-    "version": "1.0"
+    "version": "2.0"
+  },
+  {
+    "title": "Test tv",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
+    "url": "https://rogplay.live/api/livetv/jiotv.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "800+ Indian TV Channels from JIOTV"
   },
   {
     "title": "Jio TV",
