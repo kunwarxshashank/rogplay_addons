@@ -1,8 +1,5 @@
 [
   {
-    "version": "2.0"
-  },
-  {
     "title": "Test tv",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
     "url": "https://rogplay.live/api/livetv/jiotv.php",
