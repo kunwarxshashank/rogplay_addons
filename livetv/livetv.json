@@ -2,7 +2,7 @@
   {
     "title": "Test tv",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
-    "url": "https://rogplay.live/api/livetv/jiotv.php",
+    "url": "https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u",
     "type": "livetv",
     "version": "1.0",
     "description": "800+ Indian TV Channels from JIOTV"
