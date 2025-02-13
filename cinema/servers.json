@@ -5,8 +5,15 @@
       "title": "title",
       "url": "file",
       "id": "id"
-  },
+ },
  {
+      "tvurl": "https://rogplay.live/api/cinema/123embed/?id=${tmdb}&season=${season}&episode=${episode}",
+      "movieurl": "https://rogplay.live/api/cinema/123embed/?id=${tmdb}",
+      "title": "title",
+      "url": "file",
+      "id": "id"
+  },
+  {
       "tvurl": "https://rogplay.site/api/allmovie/series?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://rogplay.site/api/allmovie/movies?id=${tmdb}",
       "title": "title",
@@ -14,7 +21,7 @@
       "id": "id",
       "type": "type"
   },
-   {
+  {
       "id": "id",
       "tvurl": "https://rogplay.site/api/nsapi/vidplay?url=https://vidlink.pro/tv/${tmdb}/${season}/${episode}",
       "movieurl": "https://rogplay.site/api/nsapi/vidplay?url=https://vidlink.pro/movie/${tmdb}",
