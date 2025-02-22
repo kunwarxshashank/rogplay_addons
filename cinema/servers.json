@@ -18,6 +18,7 @@
       "tvurl": "https://rogplay.live/api/cinema/vidsrc/?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://rogplay.live/api/cinema/vidsrc/?id=${tmdb}",
       "title": "title",
-      "url": "url"
+      "url": "url",
+      "type": "type"
   }
 ]
