@@ -16,7 +16,7 @@
   {
       "id": "id",
       "tvurl": "https://rogplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}?server=2",
-      "movieurl": "https://rogplay.site/api/nsapi/vidplay?url=https://player.autoembed.cc/embed/movie/${tmdb}?server=2",
+      "movieurl": "https://rogplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}?server=2",
       "title": "title",
       "url": "url",
       "type": "type"
