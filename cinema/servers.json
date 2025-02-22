@@ -18,16 +18,14 @@
       "tvurl": "https://rogplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}?server=2",
       "movieurl": "https://rogplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}?server=2",
       "title": "title",
-      "url": "url",
-      "type": "type"
+      "url": "url"
   },
   {
       "id": "id",
       "tvurl": "https://rogplay.site/api/nsapi/vidplay?url=https://vidlink.pro/tv/${tmdb}/${season}/${episode}",
       "movieurl": "https://rogplay.site/api/nsapi/vidplay?url=https://vidlink.pro/movie/${tmdb}",
       "title": "title",
-      "url": "url",
-      "type": "type"
+      "url": "url"
   }
  
 
