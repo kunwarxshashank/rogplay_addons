@@ -1,8 +1,16 @@
 [
   {
-    "title": "Test tv",
-    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
-    "url": "https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u",
+    "title": "Tataplay",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/tataplay.png",
+    "url": "https://rogplay.live/api/tata/stream/mpd/channels.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Tataplay Web"
+  },
+  {
+    "title": "Toffee",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/tataplay.png",
+    "url": "https://rogplay.live/api/livetv/toffee.php",
     "type": "livetv",
     "version": "1.0",
     "description": "800+ Indian TV Channels from JIOTV"
@@ -55,7 +63,23 @@
     "version": "1.0",
     "description": "Watch All Fancode Events and Sports - By ByteCapsule"
   },
-    {
+  {
+    "title": "Sun Nxt",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/sunnxt.png",
+    "url": "https://rogplay.live/api/livetv/sunnxt.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "HD Channels From Sunnxt"
+  },
+  {
+    "title": "Dish TV",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/dishtv.webp",
+    "url": "https://rogplay.live/api/livetv/dishtv.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "HD Channels From Sunnxt"
+  },
+  {
     "title": "CricHD",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/crichd.png",
     "url": "https://rogplay.live/api/livetv/crichd.json",
