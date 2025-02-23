@@ -1,21 +1,5 @@
 [
-  {
-    "title": "Tataplay",
-    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/tataplay.png",
-    "url": "https://rogplay.live/api/tata/stream/mpd/channels.php",
-    "type": "livetv",
-    "version": "1.0",
-    "description": "Tataplay Web"
-  },
-  {
-    "title": "Toffee",
-    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/tataplay.png",
-    "url": "https://rogplay.live/api/livetv/toffee.php",
-    "type": "livetv",
-    "version": "1.0",
-    "description": "800+ Indian TV Channels from JIOTV"
-  },
-  {
+    {
     "title": "Jio TV",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
     "url": "https://rogplay.live/api/livetv/jiotv.php",
@@ -62,6 +46,14 @@
     "type": "livetv",
     "version": "1.0",
     "description": "Watch All Fancode Events and Sports - By ByteCapsule"
+  },
+  {
+    "title": "Toffee",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/tataplay.png",
+    "url": "https://rogplay.live/api/livetv/toffee.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "800+ Indian TV Channels from JIOTV"
   },
   {
     "title": "Sun Nxt",
