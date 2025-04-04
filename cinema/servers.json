@@ -10,7 +10,7 @@
       "tvurl": "https://rogplay.live/api/cinema/vidjoy/index.php?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://api.rogplay.site/api/cinema/vidjoy/index.php?id=${tmdb}",
       "title": "title",
-      "url": "file",
+      "url": "url",
       "id": "id"
   },
   {
