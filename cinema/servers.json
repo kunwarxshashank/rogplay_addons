@@ -6,13 +6,6 @@
       "url": "file",
       "id": "id"
  },
- {
-      "tvurl": "https://rogplay.live/api/cinema/vidjoy/index.php?id=${tmdb}&season=${season}&episode=${episode}",
-      "movieurl": "https://api.rogplay.site/api/cinema/vidjoy/index.php?id=${tmdb}",
-      "title": "title",
-      "url": "url",
-      "id": "id"
-  },
   {
       "id": "id",
       "tvurl": "https://rogplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
@@ -34,6 +27,13 @@
       "url": "file",
       "id": "id"
   },
+  {
+      "tvurl": "https://rogplay.live/api/cinema/vidjoy/index.php?id=${tmdb}&season=${season}&episode=${episode}",
+      "movieurl": "https://api.rogplay.site/api/cinema/vidjoy/index.php?id=${tmdb}",
+      "title": "title",
+      "url": "url",
+      "id": "id"
+  }
  
 
 ]
