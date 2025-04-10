@@ -15,7 +15,14 @@
       "title": "title",
       "url": "url"
   },
- 
+  {
+      "tvurl": "https://rogplay.site/api/urlive?id=${tmdb}&season=${season}&episode=${episode}",
+      "movieurl": "https://rogplay.site/api/urlive?id=${tmdb}",
+      "server": "embed",
+      "title": "title",
+      "url": "file",
+      "id": "id"
+  },
   {
       "tvurl": "https://rogplay.site/api/embed/?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://rogplay.site/api/embed?id=${tmdb}",
