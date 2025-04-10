@@ -3,6 +3,7 @@
       "tvurl": "https://rogplay.site/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://rogplay.site/api/rogflix/movies?id=${tmdb}",
       "title": "title",
+      "server": "rogflix",
       "url": "file",
       "id": "id"
  },
@@ -10,6 +11,7 @@
       "id": "id",
       "tvurl": "https://rogplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
       "movieurl": "https://rogplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}",
+      "server": "autoembed",
       "title": "title",
       "url": "url"
   },
@@ -17,6 +19,7 @@
   {
       "tvurl": "https://rogplay.site/api/embed/?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://rogplay.site/api/embed?id=${tmdb}",
+      "server": "embed",
       "title": "title",
       "url": "file",
       "id": "id"
@@ -24,6 +27,7 @@
  {
       "tvurl": "https://rogplay.site/api/rogjoy/?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://rogplay.site/api/rogjoy?id=${tmdb}",
+      "server": "rogjoy",
       "title": "title",
       "url": "file",
       "id": "id"
