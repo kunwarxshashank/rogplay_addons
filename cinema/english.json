@@ -4,14 +4,14 @@
       "id": "id",
       "tvurl": "https://rogplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
       "movieurl": "https://rogplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}",
-      "server": "autoembed",
+      "server": "Watchflix",
       "title": "title",
       "url": "url"
   },
   {
       "tvurl": "https://rogplay.site/api/urlive?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://rogplay.site/api/urlive?id=${tmdb}",
-      "server": "Mega",
+      "server": "Watchflix",
       "title": "title",
       "url": "file",
       "id": "id"
@@ -20,14 +20,14 @@
       "tvurl": "https://rogplay.site/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://rogplay.site/api/rogflix/movies?id=${tmdb}",
       "title": "title",
-      "server": "rogflix",
+      "server": "Watchflix",
       "url": "file",
       "id": "id"
  },
   {
       "tvurl": "https://rogplay.site/api/embed/?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://rogplay.site/api/embed?id=${tmdb}",
-      "server": "embed",
+      "server": "Watchflix",
       "title": "title",
       "url": "file",
       "id": "id"
@@ -35,7 +35,7 @@
  {
       "tvurl": "https://rogplay.site/api/rogjoy/?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://rogplay.site/api/rogjoy?id=${tmdb}",
-      "server": "rogjoy",
+      "server": "Watchflix",
       "title": "title",
       "url": "file",
       "id": "id"
