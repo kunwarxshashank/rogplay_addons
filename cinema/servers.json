@@ -30,7 +30,7 @@
       "title": "title",
       "url": "file",
       "id": "id"
-  }
+  },
   {
       "tvurl": "https://rogplay.site/api/embed/?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://rogplay.site/api/embed?id=${tmdb}",
