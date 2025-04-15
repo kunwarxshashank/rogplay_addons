@@ -1,5 +1,4 @@
 [ 
-
    {
       "id": "id",
       "tvurl": "https://rogplay.site/api/auto?id=${tmdb}&season=${season}&episode=${episode}",
@@ -40,8 +39,7 @@
       "url": "file",
       "id": "id"
  }, 
-
-  {
+ {
       "tvurl": "https://rogplay.site/api/embed/?id=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://rogplay.site/api/embed?id=${tmdb}",
       "server": "Watchflix",
@@ -49,5 +47,4 @@
       "url": "file",
       "id": "id"
   }
-
 ]
