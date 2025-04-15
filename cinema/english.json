@@ -49,14 +49,6 @@
       "url": "file",
       "id": "id"
   },
- {
-      "tvurl": "https://rogplay.site/api/rogjoy/?id=${tmdb}&season=${season}&episode=${episode}",
-      "movieurl": "https://rogplay.site/api/rogjoy?id=${tmdb}",
-      "server": "Watchflix",
-      "title": "title",
-      "url": "file",
-      "id": "id"
- }
 
 
 ]
