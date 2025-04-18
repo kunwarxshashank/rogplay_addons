@@ -1,7 +1,7 @@
 [ 
  {
-      "tvurl": "https://rogplay.site/api/roper?id=${tmdb}&season=${season}&episode=${episode}&type=series",
-      "movieurl": "https://rogplay.site/api/roper?id=${tmdb}&type=movie",
+      "tvurl": "https://madplay.site/api/roper?id=${tmdb}&season=${season}&episode=${episode}&type=series",
+      "movieurl": "https://madplay.site/api/roper?id=${tmdb}&type=movie",
       "server": "Watchflix",
       "title": "title",
       "url": "file",
@@ -9,31 +9,31 @@
   },
    {
       "id": "id",
-      "tvurl": "https://rogplay.site/api/auto?id=${tmdb}&season=${season}&episode=${episode}",
-      "movieurl": "https://rogplay.site/api/auto?id=${tmdb}",
+      "tvurl": "https://madplay.site/api/auto?id=${tmdb}&season=${season}&episode=${episode}",
+      "movieurl": "https://madplay.site/api/auto?id=${tmdb}",
       "server": "Watchflix",
       "title": "title",
       "url": "file"
   },   
    {
       "id": "id",
-      "tvurl": "https://rogplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
-      "movieurl": "https://rogplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}",
+      "tvurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
+      "movieurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}",
       "server": "Watchflix",
       "title": "title",
       "url": "url"
   },
 {
-      "tvurl": "https://rogplay.site/api/urlive?id=${tmdb}&season=${season}&episode=${episode}",
-      "movieurl": "https://rogplay.site/api/urlive?id=${tmdb}",
+      "tvurl": "https://madplay.site/api/urlive?id=${tmdb}&season=${season}&episode=${episode}",
+      "movieurl": "https://madplay.site/api/urlive?id=${tmdb}",
       "server": "Watchflix",
       "title": "title",
       "url": "file",
       "id": "id"
   },
  {
-      "tvurl": "https://rogplay.site/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}",
-      "movieurl": "https://rogplay.site/api/rogflix/movies?id=${tmdb}",
+      "tvurl": "https://madplay.site/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}",
+      "movieurl": "https://madplay.site/api/rogflix/movies?id=${tmdb}",
       "title": "title",
       "server": "Watchflix",
       "url": "file",
