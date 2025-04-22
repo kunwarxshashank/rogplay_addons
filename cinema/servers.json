@@ -45,7 +45,7 @@
       "movieurl": "https://madplay.site/api/primewire?url=https://www.primewire.tf/embed/movie?tmdb=${tmdb}",
       "server": "Mixdrop",
       "title": "title",
-      "url": "file",
+      "url": "url",
       "id": "id"
  }
 ]
