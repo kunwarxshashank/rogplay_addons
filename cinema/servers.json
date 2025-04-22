@@ -24,23 +24,6 @@
       "url": "url"
   },
   {
-      "tvurl": "https://madplay.site/api/urlive?id=${tmdb}&season=${season}&episode=${episode}",
-      "movieurl": "https://madplay.site/api/urlive?id=${tmdb}",
-      "server": "Mega",
-      "title": "title",
-      "url": "file",
-      "id": "id"
-  },
-
- {
-      "tvurl": "https://madplay.site/api/rogjoy/?id=${tmdb}&season=${season}&episode=${episode}",
-      "movieurl": "https://madplay.site/api/rogjoy?id=${tmdb}",
-      "server": "rogjoy",
-      "title": "title",
-      "url": "file",
-      "id": "id"
- },
-  {
       "tvurl": "https://madplay.site/api/primewire?url=https://www.primewire.tf/embed/tv?tvmaze=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://madplay.site/api/primewire?url=https://www.primewire.tf/embed/movie?tmdb=${tmdb}",
       "server": "Mixdrop",
