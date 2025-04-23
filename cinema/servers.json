@@ -15,7 +15,16 @@
       "url": "file",
       "id": "id"
   },
-   {
+  {
+      "tvurl": "https://madplay.site/api/primewire?url=https://www.primewire.tf/embed/tv?tvmaze=${tmdb}&season=${season}&episode=${episode}",
+      "movieurl": "https://vid.streamtest.site/movie/autoembed/${tmdb}",
+      "server": "Autoembed 2",
+      "title": "title",
+      "url": "file",
+      "id": "id"
+ },   
+ 
+ {
       "id": "id",
       "tvurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
       "movieurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}",
@@ -23,14 +32,6 @@
       "title": "title",
       "url": "url"
   },
-  {
-      "tvurl": "https://madplay.site/api/primewire?url=https://www.primewire.tf/embed/tv?tvmaze=${tmdb}&season=${season}&episode=${episode}",
-      "movieurl": "https://vid.streamtest.site/movie/autoembed/${tmdb}",
-      "server": "Autoembed 2",
-      "title": "title",
-      "url": "file",
-      "id": 30
- },
   {
       "tvurl": "https://madplay.site/api/primewire?url=https://www.primewire.tf/embed/tv?tvmaze=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://vid.streamtest.site/movie/vidsrcsu/${tmdb}",
