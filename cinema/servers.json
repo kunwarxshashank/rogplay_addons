@@ -27,8 +27,8 @@
       "tvurl": "https://madplay.site/api/primewire?url=https://www.primewire.tf/embed/tv?tvmaze=${tmdb}&season=${season}&episode=${episode}",
       "movieurl": "https://vid.streamtest.site/movie/autoembed/${tmdb}",
       "server": "Autoembed 2",
-      "title": "source.provider",
-      "url": "source.file[0]",
+      "title": "title",
+      "url": "file",
       "id": 30
  },
   {
