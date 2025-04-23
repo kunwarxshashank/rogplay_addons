@@ -33,7 +33,7 @@
  },
   {
       "tvurl": "https://madplay.site/api/primewire?url=https://www.primewire.tf/embed/tv?tvmaze=${tmdb}&season=${season}&episode=${episode}",
-      "movieurl": "https://madplay.site/api/primewire?url=https://www.primewire.tf/embed/movie?tmdb=${tmdb}",
+      "movieurl": "https://vid.streamtest.site/movie/vidsrcsu/${tmdb}",
       "server": "Mixdrop",
       "title": "title",
       "url": "file",
