@@ -33,9 +33,9 @@
       "url": "url"
   },
   {
-      "tvurl": "https://madplay.site/api/primewire?url=https://www.primewire.tf/embed/tv?tvmaze=${tmdb}&season=${season}&episode=${episode}",
+      "tvurl": "https://vid.streamtest.site/tv/vidsrcsu/${tmdb}?s=${season}&e=${episode}",
       "movieurl": "https://vid.streamtest.site/movie/vidsrcsu/${tmdb}",
-      "server": "Mixdrop",
+      "server": "VIDSRC",
       "title": "title",
       "url": "file",
       "id": "id"
