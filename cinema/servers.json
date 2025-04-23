@@ -15,14 +15,7 @@
       "url": "file",
       "id": "id"
   },
-  {
-      "tvurl": "https://madplay.site/api/primewire?url=https://www.primewire.tf/embed/tv?tvmaze=${tmdb}&season=${season}&episode=${episode}",
-      "movieurl": "https://vid.streamtest.site/movie/autoembed/${tmdb}",
-      "server": "Autoembed 2",
-      "title": "title",
-      "url": "file",
-      "id": "id"
- },   
+
  
  {
       "id": "id",
@@ -32,6 +25,15 @@
       "title": "title",
       "url": "url"
   },
+
+  {
+      "tvurl": "https://vid.streamtest.site/tv/autoembed/${tmdb}?s=${season}&e=${episode}",
+      "movieurl": "https://vid.streamtest.site/movie/autoembed/${tmdb}",
+      "server": "Autoembed fetch",
+      "title": "title",
+      "url": "file",
+      "id": "id"
+ },   
   {
       "tvurl": "https://vid.streamtest.site/tv/vidsrcsu/${tmdb}?s=${season}&e=${episode}",
       "movieurl": "https://vid.streamtest.site/movie/vidsrcsu/${tmdb}",
