@@ -16,19 +16,19 @@
     "id": "id"
   },
   {
-    "tvurl": "https://madplay.site/api/roper?id=${tmdb}&season=${season}&episode=${episode}&type=series",
-    "movieurl": "https://madplay.site/api/roper?id=${tmdb}&type=movie",
-    "server": "Watchflix",
-    "title": "title",
-    "url": "file",
-    "id": "id"
-  },
-  {
     "id": "id",
     "tvurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
     "movieurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}",
     "server": "autoembed",
     "title": "title",
     "url": "url"
+  },
+  {
+    "tvurl": "https://madplay.site/api/roper?id=${tmdb}&season=${season}&episode=${episode}&type=series",
+    "movieurl": "https://madplay.site/api/roper?id=${tmdb}&type=movie",
+    "server": "Watchflix",
+    "title": "title",
+    "url": "file",
+    "id": "id"
   }
 ]
