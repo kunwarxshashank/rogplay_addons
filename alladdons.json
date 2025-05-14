@@ -30,16 +30,7 @@
     "version": "1.0",
     "author": "HIGHRISK",
     "title": "YOMOVIES",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ArlaGOiCR5eeJpUsi0KRbcWx58USLMcKuQ&s",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/yomovies.json",
-    "type": "movie",
-    "description": "Latest Movies and Series from YOMOVIES"
-  },
-  {
-    "version": "1.0",
-    "author": "HIGHRISK",
-    "title": "YOMOVIES",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ArlaGOiCR5eeJpUsi0KRbcWx58USLMcKuQ&s",
+    "logo": "https://cdn.campsite.bio/eyJidWNrZXQiOiJjYW1wc2l0ZS1iaW8tc3RvcmFnZSIsImtleSI6Im1lZGlhL3Byb2ZpbGUtaW1hZ2VzLzA5YTVmODJkLTY4MjItNDMxMy1hNjA1LTZlY2M0NTQ3MDAyNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjIwMH19fQ==",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/yomovies.json",
     "type": "movie",
     "description": "Latest Movies and Series from YOMOVIES"
