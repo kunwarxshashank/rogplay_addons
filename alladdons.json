@@ -4,6 +4,7 @@
     "author": "Rogplay",
     "title": "TMDB Cinema",
     "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/tmdb.jpg",
+    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/cinema.json",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/cinema.json",
     "type": "cinema",
     "description": "Addons to fetch movies, series, animes from different sources using tmdb api."
@@ -13,6 +14,7 @@
     "author": "HIGHRISK",
     "title": "LIVE TV",
     "logo": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/08/20/66ba1293db1f3_com.tcl.livetv.png",
+    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/livetv.json",
     "url": "https://addons.madplay.site/livetv/livetv.json",
     "type": "livetv",
     "description": "Live Tv"
@@ -22,6 +24,7 @@
     "title": "Free IPTV",
     "author": "Free IPTV Org",
     "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/freeiptv.png",
+    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/freeiptv.json",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/livetv.json",
     "type": "livetv",
     "description": "List of Free and Public IPTV Channels available worldwide"
@@ -31,6 +34,7 @@
     "author": "HIGHRISK",
     "title": "YOMOVIES",
     "logo": "https://cdn.campsite.bio/eyJidWNrZXQiOiJjYW1wc2l0ZS1iaW8tc3RvcmFnZSIsImtleSI6Im1lZGlhL3Byb2ZpbGUtaW1hZ2VzLzA5YTVmODJkLTY4MjItNDMxMy1hNjA1LTZlY2M0NTQ3MDAyNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjIwMH19fQ==",
+    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/yomovies.json",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/yomovies.json",
     "type": "movie",
     "description": "Latest Movies and Series from YOMOVIES"
@@ -40,6 +44,7 @@
     "author": "HIGHRISK",
     "title": "Hindi Movie",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
+    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/hindimovie.json",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/hindimovie.json",
     "type": "movie",
     "description": "Work with VPN Only"
@@ -49,6 +54,7 @@
     "author": "Alex",
     "title": "DesiHub",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2a6npAwoTorVuvcriiac5B0VLk7aTOx9Kng&s",
+    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/desihub.json",
     "url": "https://desihub-kohl.vercel.app",
     "type": "movie",
     "description": "18+ Videos from different O.T.T Sources"
