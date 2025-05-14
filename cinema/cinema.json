@@ -4,7 +4,7 @@
     "author": "HIGHRISK",
     "title": "TMDB Cinema",
     "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/tmdb.jpg",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/servers.json",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/appserver.json",
     "type": "cinema",
     "description": "Addons to fetch movies, series, animes from different sources using tmdb api."
   }
