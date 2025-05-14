@@ -8,6 +8,22 @@
     "id": "id"
   },
   {
+    "tvurl": "https://vid.streamtest.site/tv/vidsrcsu/${tmdb}?s=${season}&e=${episode}",
+    "movieurl": "https://vid.streamtest.site/movie/vidsrcsu/${tmdb}",
+    "server": "VIDSRC",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  },
+  {
+    "tvurl": "https://vid.streamtest.site/tv/embedsu/${tmdb}?s=${season}&e=${episode}",
+    "movieurl": "https://vid.streamtest.site/movie/embedsu/${tmdb}",
+    "server": "Embeds",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  },
+  {
     "tvurl": "https://madplay.site/api/roper?id=${tmdb}&season=${season}&episode=${episode}&type=series",
     "movieurl": "https://madplay.site/api/roper?id=${tmdb}&type=movie",
     "server": "Watchflix",
@@ -32,27 +48,19 @@
     "id": "id"
   },
   {
+    "id": "id",
+    "tvurl": "https://madplay.site/api/nsapi/test?url=https://vidfast.pro/tv/${tmdb}/${season}/${episode}",
+    "movieurl": "https://madplay.site/api/nsapi/test?url=https://vidfast.pro/movie/${tmdb}",
+    "server": "StreamFast",
+    "title": "title",
+    "url": "url"
+  },
+  {
     "tvurl": "https://madplay.site/api/primewire?url=https://www.primewire.tf/embed/tv?tmdb=${tmdb}&season=${season}&episode=${episode}",
     "movieurl": "https://madplay.site/api/primewire?url=https://www.primewire.tf/embed/movie?tmdb=${tmdb}",
     "server": "Mixdrop",
     "title": "title",
     "url": "url",
-    "id": "id"
-  },
-  {
-    "tvurl": "https://vid.streamtest.site/tv/vidsrcsu/${tmdb}?s=${season}&e=${episode}",
-    "movieurl": "https://vid.streamtest.site/movie/vidsrcsu/${tmdb}",
-    "server": "VIDSRC",
-    "title": "title",
-    "url": "file",
-    "id": "id"
-  },
-  {
-    "tvurl": "https://vid.streamtest.site/tv/embedsu/${tmdb}?s=${season}&e=${episode}",
-    "movieurl": "https://vid.streamtest.site/movie/embedsu/${tmdb}",
-    "server": "Embeds",
-    "title": "title",
-    "url": "file",
     "id": "id"
   }
 ]
