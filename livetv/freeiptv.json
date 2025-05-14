@@ -1,0 +1,11 @@
+[
+  {
+    "version": "1.0",
+    "title": "Free IPTV",
+    "author": "Free IPTV Org",
+    "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/freeiptv.png",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/livetv.json",
+    "type": "livetv",
+    "description": "List of Free and Public IPTV Channels available worldwide"
+  }
+]
