@@ -1,0 +1,65 @@
+[
+  {
+    "version": "1.0",
+    "author": "Rogplay",
+    "title": "TMDB Cinema",
+    "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/tmdb.jpg",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/cinema.json",
+    "type": "cinema",
+    "description": "Addons to fetch movies, series, animes from different sources using tmdb api."
+  },
+  {
+    "version": "1.0",
+    "author": "HIGHRISK",
+    "title": "LIVE TV",
+    "logo": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/08/20/66ba1293db1f3_com.tcl.livetv.png",
+    "url": "https://addons.madplay.site/livetv/livetv.json",
+    "type": "livetv",
+    "description": "Live Tv"
+  },
+  {
+    "version": "1.0",
+    "title": "Free IPTV",
+    "author": "Free IPTV Org",
+    "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/freeiptv.png",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/livetv.json",
+    "type": "livetv",
+    "description": "List of Free and Public IPTV Channels available worldwide"
+  },
+  {
+    "version": "1.0",
+    "author": "HIGHRISK",
+    "title": "YOMOVIES",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ArlaGOiCR5eeJpUsi0KRbcWx58USLMcKuQ&s",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/yomovies.json",
+    "type": "movie",
+    "description": "Latest Movies and Series from YOMOVIES"
+  },
+  {
+    "version": "1.0",
+    "author": "HIGHRISK",
+    "title": "YOMOVIES",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ArlaGOiCR5eeJpUsi0KRbcWx58USLMcKuQ&s",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/yomovies.json",
+    "type": "movie",
+    "description": "Latest Movies and Series from YOMOVIES"
+  },
+  {
+    "version": "1.0",
+    "author": "HIGHRISK",
+    "title": "Hindi Movie",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/hindimovie.json",
+    "type": "movie",
+    "description": "Work with VPN Only"
+  },
+  {
+    "version": "1.0",
+    "author": "Alex",
+    "title": "DesiHub",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2a6npAwoTorVuvcriiac5B0VLk7aTOx9Kng&s",
+    "url": "https://desihub-kohl.vercel.app",
+    "type": "movie",
+    "description": "18+ Videos from different O.T.T Sources"
+  }
+]
