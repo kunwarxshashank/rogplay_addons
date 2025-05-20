@@ -23,14 +23,14 @@
     "url": "file",
     "id": "id"
   },
-{
-"tvurl": "https://madplay.site/api/playsrc?id=${id}&season=${season}&episode=${episode}",
-"movieurl": "https://madplay.site/api/playsrc?id=${tmdb}",
-"server": "PlaySrc",
-"title": "title",
-"url": "file",
-"id": "id"
-},
+  {
+  "tvurl": "https://madplay.site/api/playsrc?id=${id}&season=${season}&episode=${episode}",
+  "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}",
+  "server": "PlaySrc",
+  "title": "title",
+  "url": "file",
+  "id": "id"
+  },
   {
     "tvurl": "https://madplay.site/api/roper?id=${tmdb}&season=${season}&episode=${episode}&type=series",
     "movieurl": "https://madplay.site/api/roper?id=${tmdb}&type=movie",
