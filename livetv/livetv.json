@@ -10,7 +10,7 @@
   {
     "title": "Jio Cinema",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
-    "url": "https://addons.madplay.site/livetv/jiocinema.php",
+    "url": "https://addons.madplay.site/livetv/datajson/tpdenver.m3u",
     "type": "livetv",
     "version": "1.0",
     "description": "Jiocinema Live TV"
