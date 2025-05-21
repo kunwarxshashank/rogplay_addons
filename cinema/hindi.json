@@ -8,6 +8,14 @@
   "id": "id"
   },
   {
+    "tvurl": "https://madplay.site/api/multiflix?tmdbId=${tmdb}&season=${season}&episode=${episode}&type=series",
+    "movieurl": "https://madplay.site/api/multiflix?tmdbId=${tmdb}&type=movie",
+    "title": "title",
+    "server": "Multiflix",
+    "url": "file",
+    "id": "id"
+  },
+  {
   "tvurl": "https://vid.streamtest.site/tv/autoembed/${tmdb}?s=${season}&e=${episode}",
   "movieurl": "https://vid.streamtest.site/movie/autoembed/${tmdb}",
   "server": "Autoembed fetch",
@@ -18,14 +26,6 @@
  {
     "tvurl": "https://madplay.site/api/playsrc?id=${id}&season=${season}&episode=${episode}",
     "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}",
-    "server": "Playsrc",
-    "title": "title",
-    "url": "file",
-    "id": "id"
-  },
-   {
-    "tvurl": "https://madplay.site/api/multiflix?id=${id}&season=${season}&episode=${episode}",
-    "movieurl": "https://madplay.site/api/multiflix?id=${tmdb}",
     "server": "Playsrc",
     "title": "title",
     "url": "file",
