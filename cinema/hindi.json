@@ -16,20 +16,20 @@
     "id": "id"
   },
   {
-  "tvurl": "https://vid.streamtest.site/tv/autoembed/${tmdb}?s=${season}&e=${episode}",
-  "movieurl": "https://vid.streamtest.site/movie/autoembed/${tmdb}",
-  "server": "Autoembed fetch",
-  "title": "title",
-  "url": "file",
-  "id": "id"
-  },
- {
     "tvurl": "https://madplay.site/api/playsrc?id=${id}&season=${season}&episode=${episode}",
     "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}",
     "server": "Playsrc",
     "title": "title",
     "url": "file",
     "id": "id"
+  },
+  {
+  "tvurl": "https://vid.streamtest.site/tv/autoembed/${tmdb}?s=${season}&e=${episode}",
+  "movieurl": "https://vid.streamtest.site/movie/autoembed/${tmdb}",
+  "server": "Autoembed fetch",
+  "title": "title",
+  "url": "file",
+  "id": "id"
   },
   {
   "id": "id",
