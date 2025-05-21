@@ -8,6 +8,14 @@
     "id": "id"
   },
   {
+    "tvurl": "https://madplay.site/api/playsrc?id=${id}&season=${season}&episode=${episode}",
+    "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}",
+    "server": "Playsrc",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  },
+  {
     "tvurl": "https://madplay.site/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}",
     "movieurl": "https://madplay.site/api/rogflix/movies?id=${tmdb}",
     "title": "title",
