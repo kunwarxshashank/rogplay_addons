@@ -15,6 +15,22 @@
   "url": "file",
   "id": "id"
   },
+ {
+    "tvurl": "https://madplay.site/api/playsrc?id=${id}&season=${season}&episode=${episode}",
+    "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}",
+    "server": "Playsrc",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  },
+   {
+    "tvurl": "https://madplay.site/api/multiflix?id=${id}&season=${season}&episode=${episode}",
+    "movieurl": "https://madplay.site/api/multiflix?id=${tmdb}",
+    "server": "Playsrc",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  },
   {
   "id": "id",
   "tvurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
