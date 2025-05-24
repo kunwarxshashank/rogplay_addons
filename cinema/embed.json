@@ -1,0 +1,18 @@
+[
+  {
+    "tvurl": "https://uembed.site/?id=${tmdb}?season=${season}&episode=${episode}",
+    "movieurl": "https://uembed.site/?id=${tmdb}",
+    "server": "Uembed",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  },
+  {
+    "tvurl": "https://Letsembed.cc/embed/tv/?id=${tmdb}/${season}/${episode}",
+    "movieurl": "https://letsembed.cc/embed/movie/?id=${tmdb}",
+    "server": "Letsembedd",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  }
+]
