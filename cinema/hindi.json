@@ -16,14 +16,6 @@
     "id": "id"
   },
   {
-    "tvurl": "https://madplay.site/api/playsrc?id=${id}&season=${season}&episode=${episode}",
-    "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}",
-    "server": "Playsrc",
-    "title": "title",
-    "url": "file",
-    "id": "id"
-  },
-  {
   "tvurl": "https://vid.streamtest.site/tv/autoembed/${tmdb}?s=${season}&e=${episode}",
   "movieurl": "https://vid.streamtest.site/movie/autoembed/${tmdb}",
   "server": "Autoembed fetch",
@@ -38,21 +30,5 @@
   "server": "autoembed",
   "title": "title",
   "url": "url"
-  },
-  {
-  "id": "id",
-  "tvurl": "https://madplay.site/api/nsapi/test?url=https://vidfast.pro/tv/${tmdb}/${season}/${episode}",
-  "movieurl": "https://madplay.site/api/nsapi/test?url=https://vidfast.pro/movie/${tmdb}",
-  "server": "StreamFast",
-  "title": "title",
-  "url": "url"
-  },
-  {
-  "tvurl": "https://madplay.site/api/roper?id=${tmdb}&season=${season}&episode=${episode}&type=series",
-  "movieurl": "https://madplay.site/api/roper?id=${tmdb}&type=movie",
-  "server": "Watchflix",
-  "title": "title",
-  "url": "file",
-  "id": "id"
   }
 ]
