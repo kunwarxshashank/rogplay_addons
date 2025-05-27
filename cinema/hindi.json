@@ -30,5 +30,13 @@
   "server": "autoembed",
   "title": "title",
   "url": "url"
+  },
+  {
+    "tvurl": "https://madplay.site/api/holly?id=${tmdb}&season=${season}&episode=${episode}",
+    "movieurl": "https://madplay.site/api/holly?id=${tmdb}",
+    "server": "English - Holly",
+    "title": "title",
+    "url": "file",
+    "id": "id"
   }
 ]
