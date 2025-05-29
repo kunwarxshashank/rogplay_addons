@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-STREAM-INF:BANDWIDTH=1197000,CODECS="mp4a.40.2,avc1.77.31",RESOLUTION=784x350,FRAME-RATE=24
-https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/video_master.ts
