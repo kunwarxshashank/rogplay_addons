@@ -8,6 +8,14 @@
     "id": "id"
   },
   {
+    "tvurl": "https://madplay.site/api/auto?id=${tmdb}&season=${season}&episode=${episode}",
+    "movieurl": "https://madplay.site/api/auto?id=${tmdb}",
+    "server": "Orignal -HD",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  },
+  {
     "tvurl": "https://vid.streamtest.site/tv/vidsrcsu/${tmdb}?s=${season}&e=${episode}",
     "movieurl": "https://vid.streamtest.site/movie/vidsrcsu/${tmdb}",
     "server": "VIDSRC",
