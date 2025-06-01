@@ -16,6 +16,14 @@
     "id": "id"
   },
   {
+  "id": "id",
+  "tvurl": "https://madplay.site/api/auto?id=${tmdb}&season=${season}&episode=${episode}",
+  "movieurl": "https://madplay.site/api/auto?id=${tmdb}",
+  "server": "Auto",
+  "title": "title",
+  "url": "url"
+  },
+  {
     "tvurl": "https://madplay.site/api/nsapi/1flix?id=${tmdb}&season=${season}&episode=${episode}",
     "movieurl": "https://madplay.site/api/nsapi/1flix?id=${tmdb}",
     "server": "1Flix",
@@ -24,19 +32,20 @@
     "id": "id"
   },
   {
-  "id": "id",
-  "tvurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
-  "movieurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}",
-  "server": "Auto",
-  "title": "title",
-  "url": "url"
-  },
-  {
     "tvurl": "https://madplay.site/api/holly?id=${tmdb}&season=${season}&episode=${episode}",
     "movieurl": "https://madplay.site/api/holly?id=${tmdb}",
     "server": "Holly",
     "title": "title",
     "url": "file",
     "id": "id"
+  },
+
+  {
+  "id": "id",
+  "tvurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
+  "movieurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}",
+  "server": "Auto NS",
+  "title": "title",
+  "url": "url"
   }
 ]
