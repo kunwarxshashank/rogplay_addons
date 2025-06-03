@@ -2,15 +2,23 @@
   {
     "tvurl": "https://madplay.site/api/auto?id=${tmdb}&season=${season}&episode=${episode}",
     "movieurl": "https://madplay.site/api/auto?id=${tmdb}",
-    "server": "TVBOX",
+    "server": "Auto",
     "title": "title",
     "url": "file",
     "id": "id"
   },
   {
+  "id": "id",
+  "tvurl": "https://madplay.site/api/playsrc?id=${tmdb}&season=${season}&episode=${episode}",
+  "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}",
+  "server": "PlaySrc",
+  "title": "title",
+  "url": "url"
+  }, 
+  {
     "tvurl": "https://madplay.site/api/holly?id=${tmdb}&season=${season}&episode=${episode}",
     "movieurl": "https://madplay.site/api/holly?id=${tmdb}",
-    "server": "English - Holly",
+    "server": "Holly",
     "title": "title",
     "url": "file",
     "id": "id"
@@ -19,7 +27,7 @@
     "id": "id",
     "tvurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
     "movieurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}",
-    "server": "autoembed",
+    "server": "AUTONS",
     "title": "title",
     "url": "url"
   },
