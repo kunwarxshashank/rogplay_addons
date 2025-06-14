@@ -1,12 +1,5 @@
 [
-  {
-    "tvurl": "https://madplay.site/api/auto?id=${tmdb}&season=${season}&episode=${episode}",
-    "movieurl": "https://madplay.site/api/auto?id=${tmdb}",
-    "server": "Auto",
-    "title": "title",
-    "url": "file",
-    "id": "id"
-  },
+
   {
   "id": "id",
   "tvurl": "https://madplay.site/api/playsrc?id=${tmdb}&season=${season}&episode=${episode}",
@@ -23,22 +16,6 @@
     "url": "file",
     "id": "id"
   },  
-  {
-    "id": "id",
-    "tvurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
-    "movieurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}",
-    "server": "AUTONS",
-    "title": "title",
-    "url": "url"
-  },
-  {
-  "tvurl": "https://madplay.site/api/nsapi/1flix?id=${tmdb}&season=${season}&episode=${episode}",
-  "movieurl": "https://madplay.site/api/nsapi/1flix?id=${tmdb}",
-  "server": "1Flix",
-  "title": "title",
-  "url": "file",
-  "id": "id"
-  },
   {
     "tvurl": "https://madplay.site/api/multiflix?tmdbId=${tmdb}&season=${season}&episode=${episode}&type=series",
     "movieurl": "https://madplay.site/api/multiflix?tmdbId=${tmdb}&type=movie",
