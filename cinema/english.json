@@ -31,15 +31,6 @@
     "server": "rogflix",
     "url": "file",
     "id": "id"
-  },
-    {
-    "tvurl": "https://madplay.site/api/roper?id=${tmdb}&season=${season}&episode=${episode}&type=series",
-    "movieurl": "https://madplay.site/api/roper?id=${tmdb}&type=movie",
-    "server": "Watchflix",
-    "title": "title",
-    "url": "file",
-    "id": "id"
   }
-
 
 ]
