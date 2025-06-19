@@ -1,7 +1,7 @@
 [
   {
     "tvurl": "https://uembed.vercel.app/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}&token=alpha",
-    "movieurl": "https://pastebin.com/raw/u0qDLWYs&id=${tmdb}",
+    "movieurl": "https://pastebin.com/raw/u0qDLWYs",
     "title": "title",
     "server": "Test",
     "url": "file",
