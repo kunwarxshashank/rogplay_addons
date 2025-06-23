@@ -25,8 +25,8 @@
     "id": "id"
   },
   {
-    "tvurl": "https://madplay.site/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}&token=alpha",
-    "movieurl": "https://madplay.site/api/rogflix/movies?id=${tmdb}&token=alpha",
+    "tvurl": "https://uembed.vercel.app/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}&token=alpha",
+    "movieurl": "https://uembed.vercel.app/api/rogflix/movies?id=${tmdb}&token=alpha",
     "title": "title",
     "server": "rogflix",
     "url": "file",
