@@ -1,9 +1,9 @@
 [
   {
-  "tvurl": "https://uembed.vercel.app/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}&token=alpha",
-  "movieurl": "https://uembed.vercel.app/api/rogflix/movies?id=${tmdb}&token=alpha",
+  "tvurl": "https://madplay.site/api/multiflix?tmdbId=${tmdb}&season=${season}&episode=${episode}&type=series",
+  "movieurl": "https://madplay.site/api/multiflix?tmdbId=${tmdb}&type=movie",
   "title": "title",
-  "server": "Multi-Lang",
+  "server": "Hindi",
   "url": "file",
   "id": "id"
   },
