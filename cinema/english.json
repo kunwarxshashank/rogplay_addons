@@ -1,4 +1,5 @@
 [
+  
   {
     "tvurl": "https://madplay.site/api/holly?id=${tmdb}&season=${season}&episode=${episode}",
     "movieurl": "https://madplay.site/api/holly?id=${tmdb}",
@@ -14,6 +15,14 @@
   "server": "PlaySrc",
   "title": "title",
   "url": "url"
+  },
+  {
+  "tvurl": "https://madplay.site/api/multiflix?tmdbId=${tmdb}&season=${season}&episode=${episode}&type=series",
+  "movieurl": "https://madplay.site/api/multiflix?tmdbId=${tmdb}&type=movie",
+  "title": "title",
+  "server": "Multiflix",
+  "url": "file",
+  "id": "id"
   },
   {
     "tvurl": "https://uembed.vercel.app/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}&token=alpha",
