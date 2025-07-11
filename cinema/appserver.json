@@ -2,7 +2,7 @@
   {
   "id": "id",
   "tvurl": "https://madplay.site/api/nsapi/vid?id=${tmdb}&season=${season}&episode=${episode}",
-  "movieurl": "hhttps://madplay.site/api/nsapi/vid?id=${tmdb}",
+  "movieurl": "https://madplay.site/api/nsapi/vid?id=${tmdb}",
   "server": "VidUrl",
   "title": "title",
   "url": "url"
@@ -13,7 +13,7 @@
   "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}&token=direct",
   "server": "PlaySrc",
   "title": "title",
-  "url": "url"
+  "url": "file"
   }, 
   {
     "tvurl": "https://uembed.vercel.app/api/rogflix/movies?id=${tmdb}?s=${season}&e=${episode}&token=alpha",
