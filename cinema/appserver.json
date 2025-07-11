@@ -1,12 +1,4 @@
 [
-  {
-    "tvurl": "https://uembed.vercel.app/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}&token=alpha",
-    "movieurl": "https://pastebin.com/raw/u0qDLWYs",
-    "title": "title",
-    "server": "Test",
-    "url": "file",
-    "id": "id"
-  },
 
   {
   "id": "id",
@@ -17,16 +9,8 @@
   "url": "url"
   }, 
   {
-    "tvurl": "https://madplay.site/api/auto?id=${tmdb}&season=${season}&episode=${episode}",
-    "movieurl": "https://madplay.site/api/auto?id=${tmdb}",
-    "server": "Orignal -HD",
-    "title": "title",
-    "url": "file",
-    "id": "id"
-  },
-  {
-    "tvurl": "https://vid.streamtest.site/tv/vidsrcsu/${tmdb}?s=${season}&e=${episode}",
-    "movieurl": "https://vid.streamtest.site/movie/vidsrcsu/${tmdb}",
+    "tvurl": "https://uembed.vercel.app/api/rogflix/movies?id=${tmdb}?s=${season}&e=${episode}&token=alpha",
+    "movieurl": "https://uembed.vercel.app/api/rogflix/movies?id=${tmdb}&token=alpha",
     "server": "VIDSRC",
     "title": "title",
     "url": "file",
@@ -34,32 +18,8 @@
   },
   {
     "tvurl": "https://vid.streamtest.site/tv/embedsu/${tmdb}?s=${season}&e=${episode}",
-    "movieurl": "https://vid.streamtest.site/movie/embedsu/${tmdb}",
-    "server": "Embeds",
-    "title": "title",
-    "url": "file",
-    "id": "id"
-  },
-  {
-    "tvurl": "https://madplay.site/api/roper?id=${tmdb}&season=${season}&episode=${episode}&type=series",
-    "movieurl": "https://madplay.site/api/roper?id=${tmdb}&type=movie",
-    "server": "Watchflix",
-    "title": "title",
-    "url": "file",
-    "id": "id"
-  },
-  {
-    "id": "id",
-    "tvurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
-    "movieurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}",
-    "server": "autoembed",
-    "title": "title",
-    "url": "url"
-  },
-  {
-    "tvurl": "https://vid.streamtest.site/tv/autoembed/${tmdb}?s=${season}&e=${episode}",
-    "movieurl": "https://vid.streamtest.site/movie/autoembed/${tmdb}",
-    "server": "Autoembed fetch",
+    "movieurl": "https://madplay.site/api/holly?id=${tmdb}",
+    "server": "Holly Embed",
     "title": "title",
     "url": "file",
     "id": "id"
