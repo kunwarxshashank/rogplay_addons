@@ -1,9 +1,16 @@
 [
-
   {
   "id": "id",
-  "tvurl": "https://madplay.site/api/playsrc?id=${tmdb}&season=${season}&episode=${episode}",
-  "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}",
+  "tvurl": "https://madplay.site/api/nsapi/vid?id=${tmdb}&season=${season}&episode=${episode}",
+  "movieurl": "hhttps://madplay.site/api/nsapi/vid?id=${tmdb}",
+  "server": "VidUrl",
+  "title": "title",
+  "url": "url"
+  }, 
+  {
+  "id": "id",
+  "tvurl": "https://madplay.site/api/playsrc?id=${tmdb}&season=${season}&episode=${episode}&token=direct",
+  "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}&token=direct",
   "server": "PlaySrc",
   "title": "title",
   "url": "url"
@@ -11,15 +18,15 @@
   {
     "tvurl": "https://uembed.vercel.app/api/rogflix/movies?id=${tmdb}?s=${season}&e=${episode}&token=alpha",
     "movieurl": "https://uembed.vercel.app/api/rogflix/movies?id=${tmdb}&token=alpha",
-    "server": "VIDSRC",
+    "server": "MULTI SERVER",
     "title": "title",
     "url": "file",
     "id": "id"
   },
   {
-    "tvurl": "https://vid.streamtest.site/tv/embedsu/${tmdb}?s=${season}&e=${episode}",
-    "movieurl": "https://madplay.site/api/holly?id=${tmdb}",
-    "server": "Holly Embed",
+    "tvurl": "https://madplay.site/api/holly?id=${tmdb}&s=${season}&e=${episode}&token=direct",
+    "movieurl": "https://madplay.site/api/holly?id=${tmdb}&token=direct",
+    "server": "YES HD",
     "title": "title",
     "url": "file",
     "id": "id"
