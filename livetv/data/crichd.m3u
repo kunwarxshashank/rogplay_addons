@@ -1,0 +1,70 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-group="sports"  tvg-id="1" tvg-name="Star Sports 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/QM22x0Qj/Star-Sports-1-HD.png" tvg-chno="1" group-title="Nayeem's CricHD",Star Sports 1 HD
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fstream.crichd.sc%2Fupdate%2Fstar.php
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="2" tvg-name="Star Sports 1 Hindi HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/MZbCq0v8/Star-Sports-1-HD-Hindi.png" tvg-chno="2" group-title="Nayeem's CricHD",Star Sports 1 Hindi HD
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fstream.crichd.sc%2Fupdate%2Fstar1hi.php
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="3" tvg-name="Sky Sports Main Events" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" tvg-chno="3" group-title="Nayeem's CricHD",Sky Sports Main Events
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fstream.crichd.sc%2Fupdate%2Fskys1.php
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="3" tvg-name="Sky Sports Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/13TTJJYD/Sky-Sports-Cricket.png" tvg-chno="3" group-title="Nayeem's CricHD",Sky Sports Cricket
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fstream.crichd.sc%2Fupdate%2Fskys2.php
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="3" tvg-name="Sky Sports Action" tvg-country="IN" tvg-logo="https://images.entertainment.ie/storage/lmstelevision/tv-logos/5bc047e47e4eb231eab3c0cc3e4b543a.png" tvg-chno="3" group-title="Nayeem's CricHD",Sky Sports Action
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fstream.crichd.sc%2Fupdate%2Fskys3.php
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="3" tvg-name="Sky Sports Golf" tvg-country="IN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDF3C0A6Zxx37_DKSFEXFnjHbd2pKhjqPD7XaOEy97=s900-c-k-c0x00ffffff-no-rj" tvg-chno="3" group-title="Nayeem's CricHD",Sky Sports Golf
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fstream.crichd.sc%2Fupdate%2Fskys4.php
+
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="3" tvg-name="Sky Sports Action" tvg-country="IN" tvg-logo="https://images.entertainment.ie/storage/lmstelevision/tv-logos/5bc047e47e4eb231eab3c0cc3e4b543a.png" tvg-chno="3" group-title="Nayeem's CricHD",Sky Sports Action
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fstream.crichd.sc%2Fupdate%2Fskys3.php
+
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="3" tvg-name="Sky Sports Premier League" tvg-country="IN" tvg-logo="https://yt3.googleusercontent.com/LD8242zKW9zIrG1bp7yBCt7qQbzuPahSTJDaU9W_5GpG_JUaMx6HNbNjHdM4O-Q3Qv2xpWORJg=s900-c-k-c0x00ffffff-no-rj" tvg-chno="3" group-title="Nayeem's CricHD",Sky Sports Premier League
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fstream.crichd.sc%2Fupdate%2Fskys5.php
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="3" tvg-name="Sky Sports Football" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs8rhsPxA1AuAMz_47Llp1knFc2QsuE1NQew&s" tvg-chno="3" group-title="Nayeem's CricHD",Sky Sports Football
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fstream.crichd.sc%2Fupdate%2Fskysfotb.php
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="3" tvg-name="Sky Sports Arena" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRylYdY4bEgTeWlNGbL9JMr7kRNKEX9WlcKBA&s" tvg-chno="3" group-title="Nayeem's CricHD",Sky Sports Cricket
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fstream.crichd.sc%2Fupdate%2Fskysarena.php
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="3" tvg-name="Sky Sports F1" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ue5DBec0ZLDZzyBHTTcs9oMqMumhJxss_GiY-uHb_DxNKXDYGt1FXw_5iKyIFJIjSfo&usqp=CAU" tvg-chno="3" group-title="Nayeem's CricHD",Sky Sports F1
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fstream.crichd.sc%2Fupdate%2Fskyf1.php
+
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="5" tvg-name="TNT Sports 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/8Pz0Gq2h/Sky-Sports-New-Zealand.png" tvg-chno="5" group-title="Nayeem's CricHD",TNT Sports 1
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fb.crichd.vip%2Fbt-sports-cricket-live-stream-hd
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="8" tvg-name="TNT Sports 2" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpBiDKJ3KA1DGspqmezt54f5ThT3BGwHrRA&s" tvg-chno="8" group-title="Nayeem's CricHD",TNT Sports 2
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fb.crichd.vip%2Fgeo-super-psl-t20-live-stream-sd
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="8" tvg-name="TNT Sports 4" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpBiDKJ3KA1DGspqmezt54f5ThT3BGwHrRA&s" tvg-chno="8" group-title="Nayeem's CricHD",TNT Sports 4
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fb.crichd.vip%2Fsony-espn-live-stream
+
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="4" tvg-name="A Sports HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/4dR0TnGd/A-Sports-HD.png" tvg-chno="4" group-title="Nayeem's CricHD",A Sports HD
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fb.crichd.vip%2Fwatch-a-sports-hd-live-stream-fly
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="6" tvg-name="PTV Sports HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/cLV9Q6rm/PTV-Sports.png" tvg-chno="6" group-title="Nayeem's CricHD",PTV Sports HD
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fb.crichd.vip%2Fwatch-ptv-sports-live-stream-01
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="7" tvg-name="Ten Sports HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/mDVy6r2K/Ten-Sports-HD.png" tvg-chno="7" group-title="Nayeem's CricHD",Ten Sports HD
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fb.crichd.vip%2Ften-sports-live-streaming-flyjinnah
+
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="9" tvg-name="Willow by Cricbuzz" tvg-country="IN" tvg-logo="https://i.postimg.cc/1tJDK59X/Willow-by-Cricbuzz.png" tvg-chno="9" group-title="Nayeem's CricHD",Willow by Cricbuzz
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fb.crichd.vip%2Fwatch-willow-cricket-live-stream-us-01
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="9" tvg-name="Willow 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/1tJDK59X/Willow-by-Cricbuzz.png" tvg-chno="9" group-title="Nayeem's CricHD",Willow by Cricbuzz
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fb.crichd.vip%2Fwillow-cricket-extra-live-streaming
+
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="9" tvg-name="Astro Cricket" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqMuIZMbwyL9r8iudJqQ-wv9O2W_zie7JzLw&s" tvg-chno="9" group-title="Nayeem's CricHD",Astro Cricket
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fb.crichd.vip%2Fwatch-live-fox-cricket-501-stream-01
+
+#EXTINF:-1 tvg-group="sports"  tvg-id="9" tvg-name="Astro Cricket" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqMuIZMbwyL9r8iudJqQ-wv9O2W_zie7JzLw&s" tvg-chno="9" group-title="Nayeem's CricHD",Astro Cricket
+https://madplay.site/api/crichd/hls?url=https%3A%2F%2Fstream.crichd.sc%2Fupdate%2Fpremier.php
