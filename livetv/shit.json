@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Jio TV",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
+    "url": "https://addons.madplay.site/livetv/jiotv.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "800+ Indian TV Channels from JIOTV"
+  },
+  {
+    "title": "Jio Cinema",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+    "url": "https://addons.madplay.site/livetv/jiocinema.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Jiocinema Live TV"
+  },
+  {
+    "title": "Sony Liv",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/sonyliv.jpg",
+    "url": "https://addons.madplay.site/livetv/sonyliv.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Watch All Live Tv Channels of Sony Liv"
+  },
+  {
+    "title": "DaddyLive",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/daddylive.webp",
+    "url": "https://addons.madplay.site/livetv/daddylive.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Watch Daddylive streams Ad-free"
+  },
+  {
+    "title": "Sun Nxt",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/sunnxt.png",
+    "url": "https://addons.madplay.site/livetv/sunnxt.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "HD Channels From Sunnxt"
+  },
+  {
+    "title": "Dish TV",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/dishtv.webp",
+    "url": "https://addons.madplay.site/livetv/dishtv.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "HD Channels From Dishtv"
+  },
+  {
+    "title": "CricHD",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/crichd.png",
+    "url": "https://addons.madplay.site/livetv/crichd.json",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Watch All Cric HD Sports Channels live"
+  },
+  {
+    "title": "Shoq TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrlWLa46kZ6A-l4m9SOOZSpZ3UGRi7s-LEQ&s",
+    "url": "https://addons.madplay.site/livetv/shoqtv.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Pakistani TV Channels"
+  },
+  {
+    "title": "Mxplayer TV",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/mxplayer.png",
+    "url": "https://addons.madplay.site/livetv/mxplayer.php",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Free Channels available on MX Player"
+  }
+]
