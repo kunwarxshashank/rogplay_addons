@@ -1,14 +1,6 @@
 [
   
   {
-    "tvurl": "https://madplay.site/api/holly?id=${tmdb}&season=${season}&episode=${episode}",
-    "movieurl": "https://madplay.site/api/holly?id=${tmdb}",
-    "server": "Holly",
-    "title": "title",
-    "url": "file",
-    "id": "id"
-  },
-  {
   "id": "id",
   "tvurl": "https://madplay.site/api/playsrc?id=${tmdb}&season=${season}&episode=${episode}",
   "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}",
