@@ -3,7 +3,7 @@
 
   {
     "tvurl": "https://madplay.site/api/rogflix?id=${tmdb}&season=${season}&episode=${episode}&type=series",
-    "movieurl": "https://madplay.site/api/rogflix?id=927342&type=movie",
+    "movieurl": "https://madplay.site/api/rogflix?id=${tmdb}&type=movie",
     "title": "title",
     "server": "rogflix",
     "url": "file",
