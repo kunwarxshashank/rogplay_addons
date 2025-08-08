@@ -7,13 +7,5 @@
   "server": "Vidx",
   "title": "title",
   "url": "url"
-  },
-  {
-  "id": "id",
-  "tvurl": "https://madplay.site/api/playsrc?id=${tmdb}&season=${season}&episode=${episode}",
-  "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}",
-  "server": "PlaySrc",
-  "title": "title",
-  "url": "url"
   }
 ]
