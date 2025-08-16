@@ -8,11 +8,19 @@
     "id": "id"
   },
   {
-    "tvurl": "https://vidlink.pro/tv/?id=${tmdb}/${season}/${episode}",
+    "tvurl": "https://vidlink.pro/tv/${tmdb}/${season}/${episode}",
     "movieurl": "https://vidlink.pro/movie/${tmdb}",
     "server": "Vidlink",
     "title": "title",
     "url": "file",
     "id": "id"
-  }
+  },
+  {
+    "tvurl": "https://vidfast.pro/tv/${tmdb}/${season}/${episode}",
+    "movieurl": "https://vidfast.pro/movie/${tmdb}",
+    "server": "VidFast",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  },
 ]
