@@ -1,0 +1,11 @@
+[
+  {
+  "version": "1.0",
+  "author": "Neutral",
+  "title": "Embed Cinema - TMDB",
+  "logo": "https://cdn6.aptoide.com/imgs/2/f/0/2f00b070ae69de52adb50055ec150ef9_icon.png",
+  "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/tmdb/embedlist.json",
+  "type": "cinema",
+  "description": "List of Various Movie & TV Source (EMBED) Using Tmdb Api."
+  }
+]
