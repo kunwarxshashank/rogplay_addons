@@ -11,6 +11,15 @@
   },
   {
     "version": "1.0",
+    "author": "Neutral",
+    "title": "Embed Cinema - TMDB",
+    "logo": "https://cdn6.aptoide.com/imgs/2/f/0/2f00b070ae69de52adb50055ec150ef9_icon.png",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/tmdb/embedlist.json",
+    "type": "cinema",
+    "description": "List of Various Movie & TV Source (EMBED) Using Tmdb Api."
+  },
+  {
+    "version": "1.0",
     "author": "Public",
     "title": "LIVE TV",
     "logo": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/08/20/66ba1293db1f3_com.tcl.livetv.png",
