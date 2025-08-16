@@ -1,0 +1,18 @@
+[
+  {
+    "tvurl": "https://vidsrc.in/embed/tv/${tmdb}/${season}/${episode}",
+    "movieurl": "https://vidsrc.in/embed/movie/${tmdb}",
+    "server": "VIDSRC - Original Language",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  },
+  {
+    "tvurl": "https://vidlink.pro/tv/?id=${tmdb}/${season}/${episode}",
+    "movieurl": "https://vidlink.pro/movie/${tmdb}",
+    "server": "Vidlink",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  }
+]
