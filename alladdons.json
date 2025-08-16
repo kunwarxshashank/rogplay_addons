@@ -41,6 +41,17 @@
   },
   {
     "version": "1.0",
+    "author": "Neutral",
+    "title": "MP4MOVIEZ",
+    "logo": "https://cdn-www.bluestacks.com/bs-images/Mp4moviez_com.app_.mp4moviez.png",
+    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/mp4movies.json",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/mp4movies.json",
+    "type": "movie",
+    "description": "Latest Movies and Series from MP4MOVIES"
+  },
+
+  {
+    "version": "1.0",
     "author": "HIGHRISK",
     "title": "Hindi Movie",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
