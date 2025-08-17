@@ -7,11 +7,34 @@
   "title": "title",
   "url": "url"
   }, 
-
   {
-    "tvurl": "http://madplay.site/api/movies/rgflix?id${tmdb}?s=${season}&e=${episode}",
-    "movieurl": "http://madplay.site/api/movies/rgflix?id=${tmdb}",
+    "tvurl": "https://madplay.site/api/movies/rgflix?id=${tmdb}&season=${season}&episode=${episode}",
+    "movieurl": "https://madplay.site/api/movies/rgflix?id=${tmdb}",
     "server": "MULTI SERVER",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  },
+  {
+    "tvurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&season=${season}&episode=${episode}&server=1&token=direct",
+    "movieurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&server=1&token=direct",
+    "server": "Vidflix 1",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  },
+  {
+    "tvurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&season=${season}&episode=${episode}&server=2&token=direct",
+    "movieurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&server=2&token=direct",
+    "server": "Vidflix 2",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  },
+  {
+    "tvurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&season=${season}&episode=${episode}&server=3&token=direct",
+    "movieurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&server=3&token=direct",
+    "server": "Vidflix 3",
     "title": "title",
     "url": "file",
     "id": "id"
