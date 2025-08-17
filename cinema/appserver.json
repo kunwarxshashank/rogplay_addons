@@ -9,17 +9,9 @@
   }, 
 
   {
-    "tvurl": "https://uembed.vercel.app/api/rogflix/movies?id=${tmdb}?s=${season}&e=${episode}&token=alpha",
-    "movieurl": "https://uembed.vercel.app/api/rogflix/movies?id=${tmdb}&token=alpha",
+    "tvurl": "http://madplay.site/api/movies/rgflix?id${tmdb}?s=${season}&e=${episode}",
+    "movieurl": "http://madplay.site/api/movies/rgflix?id=${tmdb}",
     "server": "MULTI SERVER",
-    "title": "title",
-    "url": "file",
-    "id": "id"
-  },
-  {
-    "tvurl": "https://madplay.site/api/holly?id=${tmdb}&s=${season}&e=${episode}&token=direct",
-    "movieurl": "https://madplay.site/api/holly?id=${tmdb}&token=direct",
-    "server": "YES HD",
     "title": "title",
     "url": "file",
     "id": "id"
