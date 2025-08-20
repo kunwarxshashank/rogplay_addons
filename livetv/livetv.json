@@ -33,14 +33,6 @@
     "description": "Zee5 Live TV"
   },
   {
-    "title": "CricHD",
-    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/crichd.png",
-    "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/artl.m3u",
-    "type": "livetv",
-    "version": "1.0",
-    "description": "Watch All Cric HD Sports Channels live"
-  },
-  {
     "title": "Shoq TV",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrlWLa46kZ6A-l4m9SOOZSpZ3UGRi7s-LEQ&s",
     "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/shoq.m3u",
