@@ -49,6 +49,14 @@
     "description": "Pakistani TV Channels"
   },
   {
+    "title": "Dangal Play",
+    "logo": "https://play-lh.googleusercontent.com/q61rvDyY64hAXqnx-Tk6m1sY_t3R9efheeIy0P8q_b1khx4DgcplDW-WsmqBpthDZg",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/dangalplay.m3u",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "HD Channels From Dnagal Play"
+  },
+  {
     "title": "YuppTV",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/yupptv.jpg",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/yupptv.m3u",
