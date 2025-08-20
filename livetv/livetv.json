@@ -9,12 +9,20 @@
     "description": "Watch All Live Tv Channels of Sony Liv"
   },
   {
-    "title": "Airtel TV",
-    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/airtel.png",
-    "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/artl.m3u",
+    "title": "Jio TV",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
+    "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/jtv.m3u",
     "type": "livetv",
     "version": "1.0",
-    "description": "HD Channels From Airtel"
+    "description": "800+ Indian TV Channels from JIOTV"
+  },
+  {
+    "title": "Jio Cinema",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+    "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/jstar.m3u",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Jiocinema Live TV"
   },
   {
     "title": "CricHD",
