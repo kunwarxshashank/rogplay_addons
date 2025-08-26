@@ -1,11 +1,18 @@
 [
-  
   {
   "id": "id",
-  "tvurl": "https://madplay.site/api/vidz?id=${tmdb}&season=${season}&episode=${episode}",
-  "movieurl": "https://madplay.site/api/vidz?id=${tmdb}",
+  "tvurl": "http://uembed.site/api/videos/tmdb?id=${tmdb}&season=${season}&episode=${episode}",
+  "movieurl": "https://uembed.site/api/videos/tmdb?id=${tmdb}",
+  "server": "Primary",
+  "title": "title",
+  "url": "file"
+  },  
+  {
+  "id": "id",
+  "tvurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&season=${season}&episode=${episode}&server=3&token=direct",
+  "movieurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&server=3&token=direct",
   "server": "Vidx",
   "title": "title",
-  "url": "url"
+  "url": "file"
   }
 ]
