@@ -1,15 +1,15 @@
 [
   {
   "id": "id",
-  "tvurl": "https://madplay.site/api/nsapi/vid?id=${tmdb}&season=${season}&episode=${episode}",
-  "movieurl": "https://madplay.site/api/nsapi/vid?id=${tmdb}",
-  "server": "VidUrl",
+  "tvurl": "https://api.madplay.site/api/playsrc?id=${tmdb}&season=${season}&episode=${episode}&token=direct",
+  "movieurl": "https://api.madplay.site/api/playsrc?id=${tmdb}&token=direct",
+  "server": "Original Audio",
   "title": "title",
   "url": "url"
   }, 
   {
-    "tvurl": "https://madplay.site/api/movies/rgflix?id=${tmdb}&season=${season}&episode=${episode}",
-    "movieurl": "https://madplay.site/api/movies/rgflix?id=${tmdb}",
+    "tvurl": "https://madplay.site/api/rogflix?id=${tmdb}&season=${season}&episode=${episode}&type=series",
+    "movieurl": "https://madplay.site/api/rogflix?id=${tmdb}&type=movie",
     "server": "MULTI SERVER",
     "title": "title",
     "url": "file",
