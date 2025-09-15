@@ -19,10 +19,18 @@
   {
     "title": "Jio Cinema",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
-    "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/jstar.m3u",
+    "url": "https://live.dinesh29.com.np/jiotvplus.m3u",
     "type": "livetv",
     "version": "1.0",
     "description": "Jiocinema Live TV"
+  },
+  {
+    "title": "Fancode",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/1200px-FanCode_logo.svg.png",
+    "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Fancode Live Events"
   },
   {
     "title": "Zee 5",
@@ -31,6 +39,14 @@
     "type": "livetv",
     "version": "1.0",
     "description": "Zee5 Live TV"
+  },
+  {
+    "title": "Dish TV",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/dishtv.webp",
+    "url": "https://fansspot.fun/3rdparty/dishtva.html",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "HD Channels From Dishtv"
   },
   {
     "title": "Shoq TV",
