@@ -4,7 +4,7 @@
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
     "url": "https://addons.madplay.site/livetv/jiotv.php",
     "type": "livetv",
-    "version": "1.0",
+    "version": "1.1",
     "description": "800+ Indian TV Channels from JIOTV"
   },
   {
@@ -22,6 +22,14 @@
     "type": "livetv",
     "version": "1.0",
     "description": "Zee5 Live TV"
+  },
+  {
+    "title": "Fancode",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/1200px-FanCode_logo.svg.png",
+    "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Fancode Live Events"
   },
   {
     "title": "Sony Liv",
@@ -58,7 +66,7 @@
   {
     "title": "Dish TV",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/dishtv.webp",
-    "url": "https://addons.madplay.site/livetv/dishtv.php",
+    "url": "https://fansspot.fun/3rdparty/dishtva.html",
     "type": "livetv",
     "version": "1.0",
     "description": "HD Channels From Dishtv"
