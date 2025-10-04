@@ -8,9 +8,9 @@
   "url": "file"
   }, 
   {
-    "tvurl": "https://madplay.site/api/rogflix?id=${tmdb}&season=${season}&episode=${episode}&type=series",
-    "movieurl": "https://madplay.site/api/rogflix?id=${tmdb}&type=movie",
-    "server": "MULTI SERVER",
+    "tvurl": "https://madplay.site/api/netmirror/prime?tmdbId=${tmdb}&season=${season}&episode=${episode}type=series",
+    "movieurl": "https://madplay.site/api/netmirror/prime?tmdbId=${tmdb}&type=movie",
+    "server": "Prime Video",
     "title": "title",
     "url": "file",
     "id": "id"
