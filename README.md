@@ -13,7 +13,10 @@
   ⚡Cric HD
 
 # Api Docs
-https://rogplay.live/api-docs
+Want to Create Own Addons ?
+Checkout Our ApiDocs
+[![API Docs](https://img.shields.io/badge/📚%20API%20Docs-Open%20Now-brightgreen?style=for-the-badge&logo=readthedocs)](https://rogplay.github.io/apidocs.html)
+
 
 ## 📢 Join Our Telegram Community
 Stay updated and discuss the project with us on Telegram:  
