@@ -15,4 +15,9 @@
 # Api Docs
 https://rogplay.live/api-docs
 
+## 📢 Join Our Telegram Community
+Stay updated and discuss the project with us on Telegram:  
+[![Join Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram)](https://t.me/YourTelegramLink)
+
+
 #NOTE: All these channels are scrapped from publically available telegram channels, repo owner didn't hosted any responsible to any type of illegal activities, Use at Your own risk.
