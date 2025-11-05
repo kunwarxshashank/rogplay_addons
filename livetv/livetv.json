@@ -3,7 +3,7 @@
   {
     "title": "Sony Liv",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/sonyliv.jpg",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/sonyliv.m3u",
+    "url": "https://servertvhub.site/sonyliv.m3u",
     "type": "livetv",
     "version": "1.0",
     "description": "Watch All Live Tv Channels of Sony Liv"
@@ -11,7 +11,7 @@
   {
     "title": "Jio TV",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
-    "url": "https://m3u-fetcher.vercel.app/hotstar.m3u",
+    "url": "https://servertvhub.site/jio/app/playlist.php",
     "type": "livetv",
     "version": "1.0",
     "description": "800+ Indian TV Channels from JIOTV"
@@ -35,7 +35,7 @@
   {
     "title": "Zee 5",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nO4wJmh7M9ktKbzNomqW4ais4W3Y69b4RngbQnagV08T8=s900-c-k-c0x00ffffff-no-rj",
-    "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/z5.m3u",
+    "url": "https://servertvhub.site/zee5-main/playlist.php",
     "type": "livetv",
     "version": "1.0",
     "description": "Zee5 Live TV"
