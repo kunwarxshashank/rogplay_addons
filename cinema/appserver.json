@@ -6,7 +6,16 @@
   "server": "Original Audio",
   "title": "title",
   "url": "file"
-  }, 
+  },
+
+  {
+    "tvurl": "http://stream.madplay.site/api/ott/?tmdbId=${tmdb}&season=${season}&episode=${episode}type=series",
+    "movieurl": "http://stream.madplay.site/api/ott/?tmdbId=${tmdb}&type=movie",
+    "server": "Prime Video",
+    "title": "title",
+    "url": "file",
+    "id": "id"
+  },
   {
     "tvurl": "https://madplay.site/api/netmirror/prime?tmdbId=${tmdb}&season=${season}&episode=${episode}type=series",
     "movieurl": "https://madplay.site/api/netmirror/prime?tmdbId=${tmdb}&type=movie",
