@@ -1,8 +1,8 @@
 [
   {
   "id": "id",
-  "tvurl": "https://api.madplay.site/api/playsrc?id=${tmdb}&season=${season}&episode=${episode}&token=direct",
-  "movieurl": "https://api.madplay.site/api/playsrc?id=${tmdb}&token=direct",
+  "tvurl": "https://api.madplay.site/api/rogflix?id=${tmdb}&season=${season}&episode=${episode}&type=series",
+  "movieurl": "https://api.madplay.site/api/rogflix?id=${tmdb}&type=movie",
   "server": "Original Audio",
   "title": "title",
   "url": "file"
@@ -16,25 +16,9 @@
     "id": "id"
   },
   {
-    "tvurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&season=${season}&episode=${episode}&server=1&token=direct",
-    "movieurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&server=1&token=direct",
+    "tvurl": "https://madplay.site/api/movies/holly?id=${tmdb}&season=${season}&episode=${episode}&token=direct",
+    "movieurl": "https://madplay.site/api/movies/holly?id=${tmdb}&token=direct",
     "server": "Vidflix 1",
-    "title": "title",
-    "url": "file",
-    "id": "id"
-  },
-  {
-    "tvurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&season=${season}&episode=${episode}&server=2&token=direct",
-    "movieurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&server=2&token=direct",
-    "server": "Vidflix 2",
-    "title": "title",
-    "url": "file",
-    "id": "id"
-  },
-  {
-    "tvurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&season=${season}&episode=${episode}&server=3&token=direct",
-    "movieurl": "https://madplay.site/api/movies/vidz?id=${tmdb}&server=3&token=direct",
-    "server": "Vidflix 3",
     "title": "title",
     "url": "file",
     "id": "id"
