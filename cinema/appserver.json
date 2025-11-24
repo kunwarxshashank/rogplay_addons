@@ -9,9 +9,9 @@
   },
 
   {
-    "tvurl": "http://stream.madplay.site/api/ott/?tmdbId=${tmdb}&season=${season}&episode=${episode}type=series",
-    "movieurl": "http://stream.madplay.site/api/ott/?tmdbId=${tmdb}&type=movie",
-    "server": "Prime Video",
+    "tvurl": "https://vidsrc-embed.ru/embed/tv?tmdb=${tmdb}&season=${season}&episode=${episode}type=series",
+    "movieurl": "https://vidsrc-embed.ru/embed/movie/${tmdb}",
+    "server": "VIDSRC [EMBED]",
     "title": "title",
     "url": "file",
     "id": "id"
@@ -27,7 +27,7 @@
   {
     "tvurl": "https://madplay.site/api/movies/holly?id=${tmdb}&season=${season}&episode=${episode}&token=direct",
     "movieurl": "https://madplay.site/api/movies/holly?id=${tmdb}&token=direct",
-    "server": "Vidflix 1",
+    "server": "Vidflix",
     "title": "title",
     "url": "file",
     "id": "id"
