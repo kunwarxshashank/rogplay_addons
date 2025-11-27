@@ -15,7 +15,17 @@
     "title": "LIVE TV",
     "logo": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/08/20/66ba1293db1f3_com.tcl.livetv.png",
     "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/livetv.json",
-    "url": "https://addons.madplay.site/livetv/livetv.json",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/livetv.json",
+    "type": "livetv",
+    "description": "Live Tv"
+  },
+  {
+    "version": "1.0",
+    "author": "Public",
+    "title": "France Live TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiS60xnCDLcfqmuBIayq2-Lk1KbF42CKDvuA&s",
+    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/french.json",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/french.json",
     "type": "livetv",
     "description": "Live Tv"
   },
