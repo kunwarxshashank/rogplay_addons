@@ -1,0 +1,317 @@
+[
+  {
+    "title": "Canal +",
+    "url": "https://fremtv.lol:443/live/5A24C0D16059EDCC6A20E0CE234C7A25/106.m3u8",
+    "image": "https://directfr.sbs/logo/canal-plus-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "Canal + Foot",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/88.m3u8",
+    "image": "https://directfr.sbs/logo/canal-plus-foot.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "RMC SPORT 1",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/33.m3u8",
+    "image": "https://directfr.sbs/logo/rmc-sport-1-logo-b.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "Canal Plus 360",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/58.m3u8",
+    "image": "https://directfr.sbs/logo/canal-plus-360.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "Bein Sports 2 FR",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/49.m3u8",
+    "image": "https://directfr.sbs/logo/bein-sports-2-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "Bein Sports 1 FR",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/44.m3u8",
+    "image": "https://directfr.sbs/logo/bein-sports-1-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "Canal + Sport",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/54.m3u8",
+    "image": "https://directfr.sbs/logo/canal-plus-sport.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "Eurosport 1",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/59.m3u8",
+    "image": "https://directfr.sbs/logo/eurosport-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  
+  
+  
+  
+  
+  {
+    "title": "Boomerang FR",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/180.m3u8",
+    "image": "https://directfr.sbs/logo/boomerang-logo-min.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "M6 Music",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/110.m3u8",
+    "image": "https://frembed.top/logo/channels/m6-music-min.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "M6",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/102.m3u8",
+    "image": "https://frembed.top/logo/channels/m6-tv-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "RMC Découverte",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/90.m3u8",
+    "image": "https://directfr.sbs/logo/canal-plus-sport.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "Dazn 2",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/151.m3u8",
+    "image": "https://frembed.top/logo/channels/DAZN-2.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },  
+
+  {
+    "title": "TCM Cinema",
+    "url": "https://fremtv.lol:443/live/5A24C0D16059EDCC6A20E0CE234C7A25/95.m3u8",
+    "image": "https://directfr.sbs/logo/tcm-cinema-hd-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "La Chaine",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/113.m3u8",
+    "image": "https://frembed.top/logo/channels/lequipe-logo-channels-min.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  
+  { 
+    "title": "Dazn 1",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/150.m3u8",
+    "image": "https://frembed.top/logo/channels/DAZN-1.pngview-source:https://directfr.sbs/logo/france-3-logo-channels.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "FRANCE 3",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/138.m3u8",
+    "image": "https://directfr.sbs/logo/france-3-logo-channels.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "France 2",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/137.m3u8",
+    "image": "https://directfr.sbs/logo/france-2.logo-channelpng.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "Cartoon Network FR",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/76.m3u8",
+    "image": "https://directfr.sbs/chaines-tv/33-cartoon-network.html",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "OCS City",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/156.m3u8",
+    "image": "https://directfr.sbs/logo/ocs-city-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "NAT Geo Wild",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/82.m3u8",
+    "image": "https://directfr.sbs/logo/nat-geo-wild-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "NAT Geo",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/81.m3u8",
+    "image": "https://directfr.sbs/logo/nat-geo-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "RMC Story",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/80.m3u8",
+    "image": "https://directfr.sbs/logo/rmc-story.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+    {
+    "title": "W9",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/80.m3u8",
+    "image": "https://directfr.sbs/logo/w9-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "TMC",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/78.m3u8",
+    "image": "https://directfr.sbs/logo/tmc-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "TFX",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/77.m3u8",
+    "image": "https://directfr.sbs/logo/tfx-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "Eurosports 2",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/60.m3u8",
+    "image": "https://directfr.sbs/logo/eurosport-2-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },  
+
+  {
+    "title": "Game One",
+    "url": "https://fremtv.lol:443/live/5A24C0D16059EDCC6A20E0CE234C7A25/104.m3u8",
+    "image": "https://directfr.sbs/logo/game-one-tv-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "Mangas",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/97.m3u8",
+    "image": "https://directfr.sbs/logo/mangas-tv-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  
+  { 
+    "title": "Novelas TV",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/103.m3u8",
+    "image": "https://directfr.sbs/logo/novelas-tv-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "RMC Sport 3",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/42.m3u8",
+    "image": "https://directfr.sbs/logo/rmc-sport-3-logo-b.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "RMC Sport 2",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/40.m3u8",
+    "image": "https://directfr.sbs/logo/rmc-sport-2-logo-b.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "TF1",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/87.m3u8",
+    "image": "https://directfr.sbs/logo/tf1-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  },
+  {
+    "title": "SYFY HD",
+    "url": "https://fremtv.lol/live/5A24C0D16059EDCC6A20E0CE234C7A25/91.m3u8",
+    "image": "https://directfr.sbs/logo/tf1-logo.png",
+    "headers": {
+      "Origin": "https://directfr.sbs",
+      "Referer": "https://directfr.sbs/"
+    }
+  }
+]
