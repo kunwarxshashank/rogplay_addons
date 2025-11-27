@@ -1,0 +1,10 @@
+[
+  {
+    "title": "DirectFR",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiS60xnCDLcfqmuBIayq2-Lk1KbF42CKDvuA&s",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/directfr.json",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "French Live TV"
+  }
+]
