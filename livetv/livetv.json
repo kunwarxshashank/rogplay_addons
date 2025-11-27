@@ -25,14 +25,6 @@
     "description": "Fancode Live Events"
   },
   {
-    "title": "Zee 5",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nO4wJmh7M9ktKbzNomqW4ais4W3Y69b4RngbQnagV08T8=s900-c-k-c0x00ffffff-no-rj",
-    "url": "https://servertvhub.site/zee5-main/playlist.php",
-    "type": "livetv",
-    "version": "1.0",
-    "description": "Zee5 Live TV"
-  },
-  {
     "title": "Shoq TV",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrlWLa46kZ6A-l4m9SOOZSpZ3UGRi7s-LEQ&s",
     "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/shoq.m3u",
