@@ -40,7 +40,7 @@
     "description": "List of Free and Public IPTV Channels available worldwide"
   },
   {
-    "version": "1.0",
+    "version": "2.0",
     "author": "HIGHRISK",
     "title": "YOMOVIES",
     "logo": "https://cdn.campsite.bio/eyJidWNrZXQiOiJjYW1wc2l0ZS1iaW8tc3RvcmFnZSIsImtleSI6Im1lZGlhL3Byb2ZpbGUtaW1hZ2VzLzA5YTVmODJkLTY4MjItNDMxMy1hNjA1LTZlY2M0NTQ3MDAyNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjIwMH19fQ==",
@@ -48,6 +48,15 @@
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/yomovies.json",
     "type": "movie",
     "description": "Latest Movies and Series from YOMOVIES"
+  },
+  {
+    "version": "2.0",
+    "author": "Neutralxd",
+    "title": "Filmyfly",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVGc4Qt72l2CdM84W1Hhdcr4VVzzTwzus-w&s",
+    "url": "https://api.madplay.site/api/filmyfly",
+    "type": "movie",
+    "description": "Latest Movies Series Full HD 4K"
   },
   {
     "version": "1.0",
