@@ -1,14 +1,6 @@
 [
 
   {
-    "title": "Sony Liv",
-    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/sonyliv.jpg",
-    "url": "https://servertvhub.site/sonyliv.m3u",
-    "type": "livetv",
-    "version": "1.0",
-    "description": "Watch All Live Tv Channels of Sony Liv"
-  },
-  {
     "title": "Jio TV",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/jiotv.json",
