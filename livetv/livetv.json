@@ -18,11 +18,19 @@
   },
   {
     "title": "Fancode",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/1200px-FanCode_logo.svg.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_TCdl7H2IW4Q1YCeGW2J11qgj28WtIrXjA&s",
     "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
     "type": "livetv",
     "version": "1.0",
     "description": "Fancode Live Events"
+  },
+  {
+    "title": "Toffee Live,
+    "logo": "https://toffeelive.com/assets/images/og-homepage.jpg",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/toffee.json",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Bangla TV Channels"
   },
   {
     "title": "Shoq TV",
