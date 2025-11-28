@@ -4,7 +4,7 @@
     "author": "Neutralxd",
     "title": "Filmyfly",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVGc4Qt72l2CdM84W1Hhdcr4VVzzTwzus-w&s",
-    "url": "https://api.madplay.site/api/filmyfly",
+    "url": "https://api.madplay.site/api/movies/filmyfly",
     "type": "movie",
     "description": "Latest Movies Series Full HD 4K"
   }
