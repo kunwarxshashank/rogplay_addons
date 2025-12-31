@@ -9,28 +9,20 @@
     "description": "List of Free and Public IPTV Channels available worldwide"
   },
   {
+    "title": "Live Sports",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsFV0wtVY_lPhxVODqe7uoUc_hpePCdPD-2g&s",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/sports.json",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Live Sports channels across the globe"
+  },
+  {
     "title": "Fancode",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_TCdl7H2IW4Q1YCeGW2J11qgj28WtIrXjA&s",
     "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
     "type": "livetv",
     "version": "1.0",
     "description": "Fancode Live Events"
-  },
-  {
-    "title": "Toffee Live",
-    "logo": "https://toffeelive.com/assets/images/og-homepage.jpg",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/toffee.json",
-    "type": "livetv",
-    "version": "1.0",
-    "description": "Bangla TV Channels"
-  },
-  {
-    "title": "Shoq TV",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrlWLa46kZ6A-l4m9SOOZSpZ3UGRi7s-LEQ&s",
-    "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/shoq.m3u",
-    "type": "livetv",
-    "version": "1.0",
-    "description": "Pakistani TV Channels"
   },
   {
     "title": "Dangal Play",
