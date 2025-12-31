@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "title": "Star Sports 1 HD",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://streamcrichd.com/update/star.php",
+    "logo": "https://i.postimg.cc/QM22x0Qj/Star-Sports-1-HD.png",
+    "type": "multiserver"
+  },
+  {
+    "id": "2",
+    "title": "Star Sports 1 Hindi HD",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://streamcrichd.com/update/star1hi.php",
+    "logo": "https://i.postimg.cc/MZbCq0v8/Star-Sports-1-HD-Hindi.png",
+    "type": "multiserver"
+  },
+  {
+    "id": "3",
+    "title": "Sky Sports Main Events",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://streamcrichd.com/update/skys1.php",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",
+    "type": "multiserver"
+  },
+  {
+    "id": "4",
+    "title": "Sky Sports Cricket",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://streamcrichd.com/update/skys2.php",
+    "logo": "https://i.postimg.cc/13TTJJYD/Sky-Sports-Cricket.png",
+    "type": "multiserver"
+  },
+  {
+    "id": "5",
+    "title": "Sky Sports Action",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://streamcrichd.com/update/skys3.php",
+    "logo": "https://images.entertainment.ie/storage/lmstelevision/tv-logos/5bc047e47e4eb231eab3c0cc3e4b543a.png",
+    "type": "multiserver"
+  },
+  {
+    "id": "6",
+    "title": "Sky Sports Golf",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://streamcrichd.com/update/skys4.php",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kDF3C0A6Zxx37_DKSFEXFnjHbd2pKhjqPD7XaOEy97=s900-c-k-c0x00ffffff-no-rj",
+    "type": "multiserver"
+  },
+  {
+    "id": "7",
+    "title": "Sky Sports Premier League",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://streamcrichd.com/update/skys5.php",
+    "logo": "https://yt3.googleusercontent.com/LD8242zKW9zIrG1bp7yBCt7qQbzuPahSTJDaU9W_5GpG_JUaMx6HNbNjHdM4O-Q3Qv2xpWORJg=s900-c-k-c0x00ffffff-no-rj",
+    "type": "multiserver"
+  },
+  {
+    "id": "8",
+    "title": "Sky Sports Football",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://streamcrichd.com/update/skysfotb.php",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs8rhsPxA1AuAMz_47Llp1knFc2QsuE1NQew&s",
+    "type": "multiserver"
+  },
+  {
+    "id": "9",
+    "title": "Sky Sports Arena",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://streamcrichd.com/update/skysarena.php",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRylYdY4bEgTeWlNGbL9JMr7kRNKEX9WlcKBA&s",
+    "type": "multiserver"
+  },
+  {
+    "id": "10",
+    "title": "Sky Sports F1",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://streamcrichd.com/update/skyf1.php",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ue5DBec0ZLDZzyBHTTcs9oMqMumhJxss_GiY-uHb_DxNKXDYGt1FXw_5iKyIFJIjSfo",
+    "type": "multiserver"
+  },
+  {
+    "id": "11",
+    "title": "TNT Sports 1",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://b.crichd.vip/bt-sports-cricket-live-stream-hd",
+    "logo": "https://i.postimg.cc/8Pz0Gq2h/Sky-Sports-New-Zealand.png",
+    "type": "multiserver"
+  },
+  {
+    "id": "12",
+    "title": "TNT Sports 2",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://b.crichd.vip/geo-super-psl-t20-live-stream-sd",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpBiDKJ3KA1DGspqmezt54f5ThT3BGwHrRA&s",
+    "type": "multiserver"
+  },
+  {
+    "id": "13",
+    "title": "TNT Sports 4",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://b.crichd.vip/sony-espn-live-stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpBiDKJ3KA1DGspqmezt54f5ThT3BGwHrRA&s",
+    "type": "multiserver"
+  },
+  {
+    "id": "14",
+    "title": "A Sports HD",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://b.crichd.vip/watch-a-sports-hd-live-stream-fly",
+    "logo": "https://i.postimg.cc/4dR0TnGd/A-Sports-HD.png",
+    "type": "multiserver"
+  },
+  {
+    "id": "15",
+    "title": "PTV Sports HD",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://b.crichd.vip/watch-ptv-sports-live-stream-01",
+    "logo": "https://i.postimg.cc/cLV9Q6rm/PTV-Sports.png",
+    "type": "multiserver"
+  },
+  {
+    "id": "16",
+    "title": "Ten Sports HD",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://b.crichd.vip/ten-sports-live-streaming-flyjinnah",
+    "logo": "https://i.postimg.cc/mDVy6r2K/Ten-Sports-HD.png",
+    "type": "multiserver"
+  },
+  {
+    "id": "17",
+    "title": "Willow by Cricbuzz",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://b.crichd.vip/watch-willow-cricket-live-stream-us-01",
+    "logo": "https://i.postimg.cc/1tJDK59X/Willow-by-Cricbuzz.png",
+    "type": "multiserver"
+  },
+  {
+    "id": "18",
+    "title": "Willow 2",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://b.crichd.vip/willow-cricket-extra-live-streaming",
+    "logo": "https://i.postimg.cc/1tJDK59X/Willow-by-Cricbuzz.png",
+    "type": "multiserver"
+  },
+  {
+    "id": "19",
+    "title": "Astro Cricket",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://streamcrichd.com/update/fox501.php",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqMuIZMbwyL9r8iudJqQ-wv9O2W_zie7JzLw&s",
+    "type": "multiserver"
+  },
+  {
+    "id": "20",
+    "title": "Astro Cricket",
+    "link": "https://api.madplay.site/api/crichd/restream?action=play&url=https://streamcrichd.com/update/premier.php",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqMuIZMbwyL9r8iudJqQ-wv9O2W_zie7JzLw&s",
+    "type": "multiserver"
+  }
+]
