@@ -1,8 +1,8 @@
 [
 
   {
-    "tvurl": "https://holly.neutralhighrisk.workers.dev/?id=${tmdb}&season=${season}&episode=${episode}",
-    "movieurl": "https://holly.neutralhighrisk.workers.dev/?id=${tmdb}",
+    "tvurl": "https://madplay.site/api/movies/holly?id=${tmdb}&season=${season}&episode=${episode}&token=direct",
+    "movieurl": "https://madplay.site/api/movies/holly?id=${tmdb}&token=direct",
     "server": "HollyFlix",
     "title": "title",
     "url": "file",
