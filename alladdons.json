@@ -17,17 +17,7 @@
     "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/livetv.json",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/livetv.json",
     "type": "livetv",
-    "description": "Live Tv"
-  },
-  {
-    "version": "1.0",
-    "author": "Public",
-    "title": "France Live TV",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiS60xnCDLcfqmuBIayq2-Lk1KbF42CKDvuA&s",
-    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/french.json",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/french.json",
-    "type": "livetv",
-    "description": "Live Tv"
+    "description": "Live Tv & Sports Channels from All around world"
   },
   {
     "version": "1.0",
@@ -46,7 +36,7 @@
     "logo": "https://flixnest.app/flix-streams/static/icon.png",
     "addonurl": "https://flixnest.app/flix-streams/manifest.json",
     "url": "https://flixnest.app/flix-streams/manifest.json",
-    "type": "stremio",
+    "type": "livetv",
     "description": "Stream movies, series, anime, and live TV with provider controls and Wyzie subtitle integration. Providers: VidZee, TV (1). Wyzie subtitles: enabled. Supporter access: free-tier (VidZee only)."
   },
   {
@@ -56,7 +46,7 @@
     "logo": "https://yastream.tamthai.de/img/yas.png",
     "addonurl": "https://yastream.tamthai.de/manifest.json",
     "url": "https://yastream.tamthai.de/manifest.json",
-    "type": "stremio",
+    "type": "movie",
     "description": "Yet Another Stream. Stream asian dramas, series and movies directly with multiple providers. Powered by TMDB and TVDB for metadata"
   },
   {
@@ -66,7 +56,7 @@
     "logo": "https://i.ibb.co/39sPSP95/IMG-9864.png",
     "addonurl": "https://india-fm-radio-hd.vercel.app/manifest.json",
     "url": "https://india-fm-radio-hd.vercel.app/manifest.json",
-    "type": "stremio",
+    "type": "livetv",
     "description": "Indian FM Radio Stations HD Streams. Stream FM in various languages -  Hindi, Tamil, Telugu, Malayalam, Bengali, Odia. All are free streams available on the internet. No copyright infringement intended"
   },
   {
@@ -76,7 +66,7 @@
     "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logo.png",
     "addonurl": "https://848b3516657c-usatv.baby-beamup.club/manifest.json",
     "url": "https://848b3516657c-usatv.baby-beamup.club/manifest.json",
-    "type": "stremio",
+    "type": "livetv",
     "description": "USA TV provides access to channels across various categories including local channels, news, sports, entertainment, premium, lifestyle, kids' shows, documentaries, Latino programming, and much more."
   },
   {
@@ -86,7 +76,7 @@
     "logo": "https://flix-music.vercel.app/logo.png",
     "addonurl": "https://flix-music.vercel.app/manifest.json",
     "url": "https://flix-music.vercel.app/manifest.json",
-    "type": "stremio",
+    "type": "livetv",
     "description": "Flix-Music: Last.fm discovery catalog with direct playback links.."
   },
   {
