@@ -50,6 +50,16 @@
     "description": "Yet Another Stream. Stream asian dramas, series and movies directly with multiple providers. Powered by TMDB and TVDB for metadata"
   },
   {
+    "version": "0.66.10",
+    "author": "WebStreamr | Hayduk",
+    "title": "Hayduk",
+    "logo": "https://emojiapi.dev/api/v1/spider_web/256.png",
+    "addonurl": "https://webstreamr.hayd.uk/manifest.json",
+    "url": "https://webstreamr.hayd.uk/manifest.json",
+    "type": "movie",
+    "description": "Provides HTTP URLs from streaming websites."
+  },
+  {
     "version": "1.0",
     "author": "Radio India",
     "title": "Indian FM Radio HD",
