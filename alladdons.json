@@ -90,7 +90,7 @@
     "description": "Latest Movies and Series from YOMOVIES"
   },
   {
-    "version": "2.0",
+    "version": "3.0",
     "author": "Neutralxd",
     "title": "Filmyfly",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVGc4Qt72l2CdM84W1Hhdcr4VVzzTwzus-w&s",
@@ -100,14 +100,14 @@
     "description": "Latest Movies Series Full HD 4K"
   },
   {
-    "version": "1.0",
+    "version": "2.0",
     "author": "HIGHRISK",
     "title": "Hindi Movie",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
     "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/hindimovie.json",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/hindimovie.json",
     "type": "movie",
-    "description": "Work with VPN Only"
+    "description": "Work Outside India"
   },
   {
     "version": "1.0",
