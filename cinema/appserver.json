@@ -1,24 +1,9 @@
 [
+
   {
-  "id": "id",
-  "tvurl": "https://api.madplay.site/api/playsrc?id=${tmdb}&season=${season}&episode=${episode}&token=direct",
-  "movieurl": "https://api.madplay.site/api/playsrc?id=${tmdb}&token=direct",
-  "server": "Original Audio",
-  "title": "title",
-  "url": "file"
-  },
-  {
-    "tvurl": "https://madplay.site/api/netmirror/prime?tmdbId=${tmdb}&season=${season}&episode=${episode}type=series",
-    "movieurl": "https://madplay.site/api/netmirror/prime?tmdbId=${tmdb}&type=movie",
-    "server": "Prime Video",
-    "title": "title",
-    "url": "file",
-    "id": "id"
-  },
-  {
-    "tvurl": "https://madplay.site/api/movies/holly?id=${tmdb}&season=${season}&episode=${episode}&token=direct",
-    "movieurl": "https://madplay.site/api/movies/holly?id=${tmdb}&token=direct",
-    "server": "Vidflix",
+    "tvurl": "https://holly.neutralhighrisk.workers.dev/?id=${tmdb}&season=${season}&episode=${episode}",
+    "movieurl": "https://holly.neutralhighrisk.workers.dev/?id=${tmdb}",
+    "server": "HollyFlix",
     "title": "title",
     "url": "file",
     "id": "id"
