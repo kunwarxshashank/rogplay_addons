@@ -4,7 +4,7 @@
     "title": "Live Sports",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsFV0wtVY_lPhxVODqe7uoUc_hpePCdPD-2g&s",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/sports.json",
-    "type": "livetv",
+    "type": "movie",
     "version": "1.0",
     "description": "Watch Live Sports channels all across the globe"
   },
