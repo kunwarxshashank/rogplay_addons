@@ -25,6 +25,15 @@
     "description": "Fancode Live Events"
   },
   {
+    "version": "1.0",
+    "author": "Public",
+    "title": "France Live TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiS60xnCDLcfqmuBIayq2-Lk1KbF42CKDvuA&s",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/french.json",
+    "type": "livetv",
+    "description": "French Live TV Channels"
+  },
+  {
     "title": "Toffee Live",
     "logo": "https://toffeelive.com/assets/images/og-homepage.jpg",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/toffee.json",
