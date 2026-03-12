@@ -1,18 +1,9 @@
 [
-  {
-    "version": "2.0",
-    "author": "Rogplay",
-    "title": "TMDB Cinema",
-    "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/tmdb.jpg",
-    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/cinema.json",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/cinema.json",
-    "type": "cinema",
-    "description": "Addons to fetch movies, series, animes from different sources using tmdb api."
-  },
+
   {
     "version": "1.0",
     "author": "Public",
-    "title": "LIVE TV",
+    "title": "LIVE TV 🌍",
     "logo": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/08/20/66ba1293db1f3_com.tcl.livetv.png",
     "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/livetv.json",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/livetv.json",
@@ -21,7 +12,7 @@
   },
   {
     "version": "1.0",
-    "title": "Free IPTV",
+    "title": "Free IPTV 🌍",
     "author": "Free IPTV Org",
     "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/freeiptv.png",
     "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/freeiptv.json",
@@ -40,24 +31,14 @@
     "description": "Stream movies, series, anime, and live TV with provider controls and Wyzie subtitle integration. Providers: VidZee, TV (1). Wyzie subtitles: enabled. Supporter access: free-tier (VidZee only)."
   },
   {
-    "version": "4.0",
-    "author": "Yastream",
-    "title": "Yastream",
-    "logo": "https://yastream.tamthai.de/img/yas.png",
-    "addonurl": "https://yastream.tamthai.de/manifest.json",
-    "url": "https://yastream.tamthai.de/manifest.json",
-    "type": "movie",
-    "description": "Yet Another Stream. Stream asian dramas, series and movies directly with multiple providers. Powered by TMDB and TVDB for metadata"
-  },
-  {
-    "version": "0.66.10",
-    "author": "WebStreamr | Hayduk",
-    "title": "Hayduk",
-    "logo": "https://emojiapi.dev/api/v1/spider_web/256.png",
-    "addonurl": "https://webstreamr.hayd.uk/manifest.json",
-    "url": "https://webstreamr.hayd.uk/manifest.json",
-    "type": "movie",
-    "description": "Provides HTTP URLs from streaming websites."
+    "version": "1.5.0",
+    "author": "Community",
+    "title": "USA TV 🇺🇸",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logo.png",
+    "addonurl": "https://848b3516657c-usatv.baby-beamup.club/manifest.json",
+    "url": "https://848b3516657c-usatv.baby-beamup.club/manifest.json",
+    "type": "livetv",
+    "description": "USA TV provides access to channels across various categories including local channels, news, sports, entertainment, premium, lifestyle, kids' shows, documentaries, Latino programming, and much more."
   },
   {
     "version": "1.0",
@@ -70,16 +51,6 @@
     "description": "Indian FM Radio Stations HD Streams. Stream FM in various languages -  Hindi, Tamil, Telugu, Malayalam, Bengali, Odia. All are free streams available on the internet. No copyright infringement intended"
   },
   {
-    "version": "1.5.0",
-    "author": "Community",
-    "title": "USA TV",
-    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logo.png",
-    "addonurl": "https://848b3516657c-usatv.baby-beamup.club/manifest.json",
-    "url": "https://848b3516657c-usatv.baby-beamup.club/manifest.json",
-    "type": "livetv",
-    "description": "USA TV provides access to channels across various categories including local channels, news, sports, entertainment, premium, lifestyle, kids' shows, documentaries, Latino programming, and much more."
-  },
-  {
     "version": "1.0.0",
     "author": "Lastfm Telegram",
     "title": "Flix-Music",
@@ -90,24 +61,44 @@
     "description": "Flix-Music: Last.fm discovery catalog with direct playback links.."
   },
   {
-    "version": "2.0",
-    "author": "HIGHRISK",
-    "title": "YOMOVIES",
-    "logo": "https://cdn.campsite.bio/eyJidWNrZXQiOiJjYW1wc2l0ZS1iaW8tc3RvcmFnZSIsImtleSI6Im1lZGlhL3Byb2ZpbGUtaW1hZ2VzLzA5YTVmODJkLTY4MjItNDMxMy1hNjA1LTZlY2M0NTQ3MDAyNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjIwMH19fQ==",
-    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/yomovies.json",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/yomovies.json",
+    "version": "0.66.10",
+    "author": "Hayduk",
+    "title": "WebStreamr | Hayduk 🌍",
+    "logo": "https://emojiapi.dev/api/v1/spider_web/256.png",
+    "addonurl": "https://webstreamr.hayd.uk/manifest.json",
+    "url": "https://webstreamr.hayd.uk/manifest.json",
     "type": "movie",
-    "description": "Latest Movies and Series from YOMOVIES"
+    "description": "Provides HTTP URLs from streaming websites."
+  },
+  {
+    "version": "4.0",
+    "author": "Yastream",
+    "title": "Yastream 🇬🇧𝗘𝗡╸",
+    "logo": "https://yastream.tamthai.de/img/yas.png",
+    "addonurl": "https://yastream.tamthai.de/manifest.json",
+    "url": "https://yastream.tamthai.de/manifest.json",
+    "type": "movie",
+    "description": "Yet Another Stream. Stream asian dramas, series and movies directly with multiple providers. Powered by TMDB and TVDB for metadata"
   },
   {
     "version": "3.0",
     "author": "Neutralxd",
-    "title": "Filmyfly",
+    "title": "Filmyfly 🇮🇳",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVGc4Qt72l2CdM84W1Hhdcr4VVzzTwzus-w&s",
     "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/filmyfly.json",
     "url": "https://api.madplay.site/api/movies/filmyfly",
     "type": "movie",
     "description": "Latest Movies Series Full HD 4K"
+  },
+  {
+    "version": "2.0",
+    "author": "HIGHRISK",
+    "title": "YOMOVIES 🇮🇳",
+    "logo": "https://cdn.campsite.bio/eyJidWNrZXQiOiJjYW1wc2l0ZS1iaW8tc3RvcmFnZSIsImtleSI6Im1lZGlhL3Byb2ZpbGUtaW1hZ2VzLzA5YTVmODJkLTY4MjItNDMxMy1hNjA1LTZlY2M0NTQ3MDAyNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjIwMH19fQ==",
+    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/yomovies.json",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/yomovies.json",
+    "type": "movie",
+    "description": "Latest Movies and Series from YOMOVIES"
   },
   {
     "version": "2.0",
@@ -128,5 +119,15 @@
     "url": "https://desihub-kohl.vercel.app",
     "type": "movie",
     "description": "18+ Videos from different O.T.T Sources"
+  },
+  {
+    "version": "2.0",
+    "author": "Rogplay",
+    "title": "TMDB Cinema",
+    "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/tmdb.jpg",
+    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/cinema.json",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/cinema.json",
+    "type": "cinema",
+    "description": "Addons to fetch movies, series, animes from different sources using tmdb api."
   }
 ]
