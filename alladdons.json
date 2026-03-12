@@ -21,16 +21,6 @@
     "description": "List of Free and Public IPTV Channels available worldwide"
   },
   {
-    "version": "1.0",
-    "author": "Flicky",
-    "title": "Flix-Streams",
-    "logo": "https://flixnest.app/flix-streams/static/icon.png",
-    "addonurl": "https://flixnest.app/flix-streams/manifest.json",
-    "url": "https://flixnest.app/flix-streams/manifest.json",
-    "type": "livetv",
-    "description": "Stream movies, series, anime, and live TV with provider controls and Wyzie subtitle integration. Providers: VidZee, TV (1). Wyzie subtitles: enabled. Supporter access: free-tier (VidZee only)."
-  },
-  {
     "version": "1.5.0",
     "author": "Community",
     "title": "USA TV 🇺🇸",
@@ -39,6 +29,36 @@
     "url": "https://848b3516657c-usatv.baby-beamup.club/manifest.json",
     "type": "livetv",
     "description": "USA TV provides access to channels across various categories including local channels, news, sports, entertainment, premium, lifestyle, kids' shows, documentaries, Latino programming, and much more."
+  },
+  {
+    "version": "1.0",
+    "author": "Flix",
+    "title": "Flix-Streams",
+    "logo": "https://flixnest.app/flix-streams/static/icon.png",
+    "addonurl": "https://flixnest.app/flix-streams/manifest.json",
+    "url": "https://flixnest.app/flix-streams/manifest.json",
+    "type": "livetv",
+    "description": "Stream movies, series, anime, and live TV with provider controls and Wyzie subtitle integration. Providers: VidZee, TV (1). Wyzie subtitles: enabled. Supporter access: free-tier (VidZee only)."
+  },
+  {
+    "version": "1.0",
+    "author": "Watchio",
+    "title": "Watchio Live TV 🌍",
+    "logo": "https://watchio-addon.pages.dev/logo.png",
+    "addonurl": "https://watchio-addon.pages.dev/manifest.json",
+    "url": "https://watchio-addon.pages.dev/manifest.json",
+    "type": "livetv",
+    "description": "Free Live TV Channels Around the world"
+  },
+  {
+    "version": "1.0",
+    "author": "hayd",
+    "title": "AU IPTV (Brisbane)",
+    "logo": "https://kangaroostreams.hayd.uk/AUIPTVLOGO.svg",
+    "addonurl": "https://kangaroostreams.hayd.uk/Brisbane/radio/ausports/nz/nzradio/nzsports/uktv/uksports/ustv/ussports/catv/casports/eusports/worldsports/epl/extras/exgrp-ca-dazn/exgrp-int-netflix-events/exgrp-int-dirtvision/exgrp-uk-epl/exgrp-uk-dazn/exgrp-au-kayo-sports/exgrp-uk-tnt-sports/exgrp-uk-sky-sports/exgrp-nz-sky-sport/exgrp-int-f1-tv/exgrp-uk-spfl/exgrp-int-rugby-events/exgrp-au-stan-sports-events/exgrp-ppv-events/manifest.json",
+    "url": "https://kangaroostreams.hayd.uk/Brisbane/radio/ausports/nz/nzradio/nzsports/uktv/uksports/ustv/ussports/catv/casports/eusports/worldsports/epl/extras/exgrp-ca-dazn/exgrp-int-netflix-events/exgrp-int-dirtvision/exgrp-uk-epl/exgrp-uk-dazn/exgrp-au-kayo-sports/exgrp-uk-tnt-sports/exgrp-uk-sky-sports/exgrp-nz-sky-sport/exgrp-int-f1-tv/exgrp-uk-spfl/exgrp-int-rugby-events/exgrp-au-stan-sports-events/exgrp-ppv-events/manifest.json",
+    "type": "livetv",
+    "description": "Australian + NZ live streams with optional international TV, Sports and Additional Packs."
   },
   {
     "version": "1.0",
@@ -113,7 +133,7 @@
   {
     "version": "1.0",
     "author": "Alex",
-    "title": "DesiHub",
+    "title": "DesiHub 🔞",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2a6npAwoTorVuvcriiac5B0VLk7aTOx9Kng&s",
     "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/desihub.json",
     "url": "https://desihub-kohl.vercel.app",
