@@ -8,47 +8,16 @@
     "version": "1.0",
     "description": "Watch Live Sports channels all across the globe"
   },
+
   {
-    "title": "Jio TV",
-    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/jiotv.jpg",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/jiotv.json",
-    "type": "livetv",
-    "version": "2.0",
-    "description": "800+ Indian TV Channels from JIOTV"
-  },
-  {
-    "title": "Fancode",
+    "title": "Fancode (Events Only)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_TCdl7H2IW4Q1YCeGW2J11qgj28WtIrXjA&s",
     "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
     "type": "livetv",
     "version": "1.0",
     "description": "Fancode Live Events"
   },
-  {
-    "version": "1.0",
-    "author": "Public",
-    "title": "France Live TV",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiS60xnCDLcfqmuBIayq2-Lk1KbF42CKDvuA&s",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/french.json",
-    "type": "livetv",
-    "description": "French Live TV Channels"
-  },
-  {
-    "title": "Toffee Live",
-    "logo": "https://toffeelive.com/assets/images/og-homepage.jpg",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/toffee.json",
-    "type": "livetv",
-    "version": "1.0",
-    "description": "Bangla TV Channels"
-  },
-  {
-    "title": "Shoq TV",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrlWLa46kZ6A-l4m9SOOZSpZ3UGRi7s-LEQ&s",
-    "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/shoq.m3u",
-    "type": "livetv",
-    "version": "1.0",
-    "description": "Pakistani TV Channels"
-  },
+
   {
     "title": "Dangal Play",
     "logo": "https://play-lh.googleusercontent.com/q61rvDyY64hAXqnx-Tk6m1sY_t3R9efheeIy0P8q_b1khx4DgcplDW-WsmqBpthDZg",
