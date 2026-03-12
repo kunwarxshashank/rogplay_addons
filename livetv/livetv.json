@@ -1,16 +1,23 @@
 [
 
   {
-    "title": "Live Sports",
+    "title": "Live Sports 🌍",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsFV0wtVY_lPhxVODqe7uoUc_hpePCdPD-2g&s",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/sports.json",
     "type": "movie",
     "version": "1.0",
     "description": "Watch Live Sports channels all across the globe"
   },
-
   {
-    "title": "Fancode (Events Only)",
+    "title": "Vaathala TV 🇮🇳",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/vaathala.jpg",
+    "url": "https://server.vodep39240327.workers.dev/channel/raw?=m3u",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "BigBoss, Sony, Zee, Voot, Tataplay, Sun, Jio TV Channels"
+  },
+  {
+    "title": "Fancode (Events Only) 🌍",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_TCdl7H2IW4Q1YCeGW2J11qgj28WtIrXjA&s",
     "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
     "type": "livetv",
@@ -19,7 +26,7 @@
   },
 
   {
-    "title": "Dangal Play",
+    "title": "Dangal Play 🇮🇳",
     "logo": "https://play-lh.googleusercontent.com/q61rvDyY64hAXqnx-Tk6m1sY_t3R9efheeIy0P8q_b1khx4DgcplDW-WsmqBpthDZg",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/dangalplay.m3u",
     "type": "livetv",
@@ -27,7 +34,7 @@
     "description": "HD Channels From Dnagal Play"
   },
   {
-    "title": "YuppTV",
+    "title": "YuppTV 🇮🇳",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/yupptv.jpg",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/yupptv.m3u",
     "type": "livetv",
@@ -35,7 +42,7 @@
     "description": "Free Channels available of YuppTV"
   },
   {
-    "title": "Mxplayer TV",
+    "title": "Mxplayer TV 🇮🇳",
     "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/mxplayer.png",
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/mxplay.m3u",
     "type": "livetv",
