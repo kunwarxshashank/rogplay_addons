@@ -7,6 +7,11 @@
   "url": "https://desihub-kohl.vercel.app",
   "type": "movie",
   "description": "18+ Videos from different O.T.T Sources",
+  "settings": [
+      "showfilter": false,
+      "showottsection": false,
+      "showslider": false
+  ],
   "catalogs": [
     {
       "type": "movie",
@@ -32,7 +37,6 @@
   ],
   "searchcatalog": [
     {
-      "type": "movie",
       "name": "DesiHub",
       "searchurl": "https://desihub-kohl.vercel.app/?search=${search}",
       "ispagination": true,
