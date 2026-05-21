@@ -1,57 +1,58 @@
 {
-  "id": "com.notorrent.addon",
   "version": "2.0",
-  "name": "TMDB Catalog",
-  "description": "All TV shows from Netflix, Disney+, Prime Video, Apple TV+, Paramount+, HBO Max, Crunchyroll, and over 25K movies in English & Spanish.",
-  "resources": [
-    "catalog",
-    "stream"
-  ],
+  "author": "Rogplay",
+  "title": "TMDB Addon",
+  "addontype": "tmdbaddon",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqGbl0chqcCZsISHPH6Q6SwHeArKfi4gDfg&s",
+  "url": "https://web.rogplay.app",
+  "description": "Official TMDB Addon to fetch Movie, Series Catalog",
   "types": [
-    "series",
-    "movie"
-  ],
-  "idPrefixes": [
-    "tmdb_",
-    "tt"
+  "series",
+  "movie"
   ],
   "catalogs": [
     {
-      "type": "series",
-      "id": "netflix",
-      "name": "Netflix"
+      "type": "movie",
+      "name": "Trending Movie",
+      "url": "https://web.rogplay.app/api/tmdb/trending/movie/day?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=1",
+      "ispagination": true,
+      "paginationurl": "https://web.rogplay.app/api/tmdb/trending/movie/day?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=${page}"
     },
     {
       "type": "series",
-      "id": "disney",
-      "name": "Disney+"
+      "name": "Trending Series",
+      "url": "https://web.rogplay.app/api/tmdb/trending/tv/day?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=1",
+      "ispagination": true,
+      "paginationurl": "https://web.rogplay.app/api/tmdb/trending/tv/day?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=${page}"
+    },
+    {
+      "type": "movie",
+      "name": "Bollywood",
+      "url": "https://web.rogplay.app/api/tmdb/discover/movie?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=1&with_original_language=hi&sort_by=popularity.desc",
+      "ispagination": true,
+      "paginationurl": "https://web.rogplay.app/api/tmdb/discover/movie?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=${page}&with_original_language=hi&sort_by=popularity.desc"
     },
     {
       "type": "series",
-      "id": "primevideo",
-      "name": "Prime Video"
+      "name": "Trending Anime",
+      "url": "https://web.rogplay.app/api/tmdb/discover/tv?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=1&with_genres=16&with_original_language=ja&sort_by=popularity.desc",
+      "ispagination": true,
+      "paginationurl": "https://web.rogplay.app/api/tmdb/discover/tv?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=${page}&with_genres=16&with_original_language=ja&sort_by=popularity.desc"
     },
     {
       "type": "series",
-      "id": "apple",
-      "name": "Apple TV+"
-    },
-    {
-      "type": "series",
-      "id": "max",
-      "name": "Max"
-    },
-    {
-      "type": "series",
-      "id": "paramount",
-      "name": "Paramount+"
-    },
-    {
-      "type": "series",
-      "id": "crunchyroll",
-      "name": "Crunchyroll"
+      "name": "K-Drama",
+      "url": "https://web.rogplay.app/api/tmdb/discover/tv?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=1&with_original_language=ko&sort_by=popularity.desc",
+      "ispagination": true,
+      "paginationurl": "https://web.rogplay.app/api/tmdb/discover/tv?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=${page}&with_original_language=ko&sort_by=popularity.desc"
     }
   ],
-  "background": "https://aqua-vulture-337623.hostingersite.com/addon/background.jpg",
-  "logo": "https://styles.redditmedia.com/t5_fvvpco/styles/profileIcon_c8ye4t9j6x2g1.png"
+  "searchcatalog": [
+    {
+      "name": "Search Result",
+      "searchurl": "https://web.rogplay.app/api/tmdb/search/multi?api_key=05902896074695709d7763505bb88b4d&language=en-US&query=${search}&page=1&include_adult=false",
+      "ispagination": true,
+      "paginationurl": "https://web.rogplay.app/api/tmdb/search/multi?api_key=05902896074695709d7763505bb88b4d&language=en-US&query=${search}&page=${page}&include_adult=false"
+    }
+  ]
 }
