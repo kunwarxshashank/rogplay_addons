@@ -10,6 +10,14 @@
   "series",
   "movie"
   ],
+  "settings": [
+      "showfilter": true,
+      "showottsection": true,
+      "showslider": true
+  ],
+  "slidercatalog": {
+      "url": "https://web.rogplay.app/api/tmdb/tv/popular?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=1"
+  },
   "catalogs": [
     {
       "type": "movie",
