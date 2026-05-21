@@ -18,21 +18,21 @@
     {
       "type": "movie",
       "name": "Trending New",
-      "url": "https://desihub-kohl.vercel.app",
+      "url": "https://desihub-kohl.vercel.app?page=1",
       "ispagination": true,
       "paginationurl": "https://desihub-kohl.vercel.app?page=${page}"
     },
     {
       "type": "movie",
       "name": "Akku",
-      "url": "https://desihub-kohl.vercel.app/ott/Akku",
+      "url": "https://desihub-kohl.vercel.app?page=1",
       "ispagination": true,
       "paginationurl": "https://desihub-kohl.vercel.app/?page=${page}"
     },
     {
       "type": "movie",
       "name": "Atrangi",
-      "url": "https://webxseries.hot/ott/atrangii/",
+      "url": "https://desihub-kohl.vercel.app?page=1",
       "ispagination": true,
       "paginationurl": "https://desihub-kohl.vercel.app/?page=${page}"
     }
