@@ -1,0 +1,57 @@
+{
+  "id": "com.notorrent.addon",
+  "version": "2.0",
+  "name": "TMDB Catalog",
+  "description": "All TV shows from Netflix, Disney+, Prime Video, Apple TV+, Paramount+, HBO Max, Crunchyroll, and over 25K movies in English & Spanish.",
+  "resources": [
+    "catalog",
+    "stream"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "idPrefixes": [
+    "tmdb_",
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "netflix",
+      "name": "Netflix"
+    },
+    {
+      "type": "series",
+      "id": "disney",
+      "name": "Disney+"
+    },
+    {
+      "type": "series",
+      "id": "primevideo",
+      "name": "Prime Video"
+    },
+    {
+      "type": "series",
+      "id": "apple",
+      "name": "Apple TV+"
+    },
+    {
+      "type": "series",
+      "id": "max",
+      "name": "Max"
+    },
+    {
+      "type": "series",
+      "id": "paramount",
+      "name": "Paramount+"
+    },
+    {
+      "type": "series",
+      "id": "crunchyroll",
+      "name": "Crunchyroll"
+    }
+  ],
+  "background": "https://aqua-vulture-337623.hostingersite.com/addon/background.jpg",
+  "logo": "https://styles.redditmedia.com/t5_fvvpco/styles/profileIcon_c8ye4t9j6x2g1.png"
+}
