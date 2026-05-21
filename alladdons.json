@@ -1,5 +1,14 @@
 [
-
+  {
+    "version": "2.0",
+      "author": "Rogplay",
+    "title": "TMDB Catalog",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8TpRfeoLQp1Qkwmz5t7pskPsggM9K_Noxg&s",
+    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/tmdbcatalog.json",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/tmdbcatalog.json",
+    "type": "tmdb",
+    "description": "Official Tmdb Catalog"
+  },
   {
     "version": "1.0",
     "author": "Public",
