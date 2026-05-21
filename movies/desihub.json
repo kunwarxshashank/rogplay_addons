@@ -8,9 +8,11 @@
   "type": "movie",
   "description": "18+ Videos from different O.T.T Sources",
   "settings": [
+    {
       "showfilter": false,
       "showottsection": false,
       "showslider": false
+    }
   ],
   "catalogs": [
     {
