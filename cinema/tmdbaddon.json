@@ -6,6 +6,9 @@
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqGbl0chqcCZsISHPH6Q6SwHeArKfi4gDfg&s",
   "url": "https://web.rogplay.app",
   "description": "Official TMDB Addon to fetch Movie, Series Catalog",
+  "resources": [
+  "catalog"
+  ],
   "types": [
     "series",
     "movie"
