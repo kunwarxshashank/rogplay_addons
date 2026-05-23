@@ -7,6 +7,10 @@
   "url": "https://desihub-kohl.vercel.app",
   "type": "movie",
   "description": "18+ Videos from different O.T.T Sources",
+  "resources": [
+  "catalog",
+  "stream"
+  ],
   "settings": [
     {
       "showfilter": false,
