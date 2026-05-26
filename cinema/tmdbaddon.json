@@ -13,6 +13,10 @@
     "series",
     "movie"
   ],
+  "idPrefixes": [
+    "tmdb",
+    "tt"
+  ],
   "settings": [
     {
       "showfilter": true,
