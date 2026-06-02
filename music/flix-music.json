@@ -1,0 +1,57 @@
+{
+  "id": "community.lastfm.telegram",
+  "version": "1.0.0",
+  "name": "Flix-Music",
+  "description": "Flix-Music: Last.fm discovery catalog with direct playback links.",
+  "addontype": "music",
+  "logo": "https://flix-music.vercel.app/logo.png",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "lastfm-top",
+      "name": "Music - Top",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "lastfm-trending",
+      "name": "Music - Trending",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "lastfm-search",
+      "name": "Music - Search",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    }
+  ],
+  "idPrefixes": [
+    "lfm:"
+  ],
+  "behaviorHints": {
+    "configurable": true
+  }
+}
