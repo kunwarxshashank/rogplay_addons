@@ -100,6 +100,16 @@
     "description": "Provides HTTP URLs from streaming websites."
   },
   {
+    "version": "1.0.0",
+    "author": "thevolecitor",
+    "title": "HDHub 🇬🇧🇮🇳",
+    "logo": "https://hdhub.thevolecitor.qzz.io/logo.png",
+    "addonurl": "https://hdhub.thevolecitor.qzz.io/eyJ0b3Jib3giOiJ1bnNldCIsInF1YWxpdGllcyI6IjIxNjBwLDEwODBwLDcyMHAiLCJzb3J0IjoiZGVzYyJ9/manifest.json",
+    "url": "https://hdhub.thevolecitor.qzz.io/eyJ0b3Jib3giOiJ1bnNldCIsInF1YWxpdGllcyI6IjIxNjBwLDEwODBwLDcyMHAiLCJzb3J0IjoiZGVzYyJ9/manifest.json",
+    "type": "movie",
+    "description": "Dual Audio Movies (English+Hindi) from HDHub"
+  },
+  {
     "version": "4.0",
     "author": "Yastream",
     "title": "Yastream 🇬🇧𝗘𝗡╸",
