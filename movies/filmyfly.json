@@ -1,11 +1,37 @@
-[
-  {
-    "version": "1.0",
-    "author": "Neutralxd",
-    "title": "Filmyfly",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVGc4Qt72l2CdM84W1Hhdcr4VVzzTwzus-w&s",
-    "url": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly",
-    "type": "movie",
-    "description": "Latest Movies Series Full HD 4K"
-  }
-]
+{
+  "version": "2.0",
+  "author": "Alex",
+  "name": "Filmyfly",
+  "addontype": "serveraddon",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVGc4Qt72l2CdM84W1Hhdcr4VVzzTwzus-w&s",
+  "url": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly",
+  "type": "movie",
+  "description": "Hindi & English Movie from Filmyfly",
+  "resources": [
+    "catalog",
+    "stream"
+  ],
+  "settings": [
+    {
+      "showfilter": false,
+      "showottsection": false,
+      "showslider": false
+    }
+  ],
+  "catalogs": [
+    {
+      "name": "Trending New",
+      "url": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly?page=1",
+      "ispagination": true,
+      "paginationurl": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly?page=${page}"
+    }
+  ],
+  "searchcatalog": [
+    {
+      "name": "Filmyfly",
+      "searchurl": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly?search=${search}",
+      "ispagination": true,
+      "paginationurl": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly?search=${search}&page=${page}"
+    }
+  ]
+}
