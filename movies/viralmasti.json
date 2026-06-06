@@ -1,0 +1,67 @@
+{
+  "version": "2.0",
+  "author": "Alex",
+  "name": "ViralMasti",
+  "addontype": "serveraddon",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2a6npAwoTorVuvcriiac5B0VLk7aTOx9Kng&s",
+  "url": "https://viralmasti.neutralhighrisk.workers.dev",
+  "type": "movie",
+  "description": "Hot MMS Leaks",
+  "resources": [
+  "catalog",
+  "stream"
+  ],
+  "settings": [
+    {
+      "showfilter": false,
+      "showottsection": false,
+      "showslider": false
+    }
+  ],
+  "catalogs": [
+    {
+      "name": "Trending New",
+      "url": "https://viralmasti.neutralhighrisk.workers.dev/page?page=1",
+      "ispagination": true,
+      "paginationurl": "https://viralmasti.neutralhighrisk.workers.dev/page?page=${page}"
+    },
+    {
+      "name": "Anal",
+      "url": "https://viralmasti.neutralhighrisk.workers.dev/mastiraja/anal?page=1",
+      "ispagination": true,
+      "paginationurl": "https://viralmasti.neutralhighrisk.workers.dev/mastiraja/anal?page=${page}"
+    },
+    {
+      "name": "AI Porn",
+      "url": "https://viralmasti.neutralhighrisk.workers.dev/mastiraja/aiporn?page=1",
+      "ispagination": true,
+      "paginationurl": "https://viralmasti.neutralhighrisk.workers.dev/mastiraja/aiporn?page=${page}"
+    },
+    {
+      "name": "Amateur",
+      "url": "https://viralmasti.neutralhighrisk.workers.dev/mastiraja/amateur?page=1",
+      "ispagination": true,
+      "paginationurl": "https://viralmasti.neutralhighrisk.workers.dev/mastiraja/amateur?page=${page}"
+    },
+    {
+      "name": "Desi Porn",
+      "url": "https://viralmasti.neutralhighrisk.workers.dev/mastiraja/desiporn?page=1",
+      "ispagination": true,
+      "paginationurl": "https://viralmasti.neutralhighrisk.workers.dev/mastiraja/desiporn?page=${page}"
+    },
+    {
+      "name": "Homemade",
+      "url": "https://viralmasti.neutralhighrisk.workers.dev/mastiraja/homemade?page=1",
+      "ispagination": true,
+      "paginationurl": "https://viralmasti.neutralhighrisk.workers.dev/mastiraja/homemade?page=${page}"
+    }
+  ],
+  "searchcatalog": [
+    {
+      "name": "ViralMasti",
+      "searchurl": "https://viralmasti.neutralhighrisk.workers.dev/search?search=${search}",
+      "ispagination": true,
+      "paginationurl": "https://viralmasti.neutralhighrisk.workers.dev/search?search=${search}&page=${page}"
+    }
+  ]
+}
