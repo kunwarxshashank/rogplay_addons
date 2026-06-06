@@ -4,7 +4,7 @@
   "name": "DesiHub",
   "addontype": "serveraddon",
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2a6npAwoTorVuvcriiac5B0VLk7aTOx9Kng&s",
-  "url": "https://desihub-kohl.vercel.app",
+  "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub",
   "type": "movie",
   "description": "18+ Videos from different O.T.T Sources",
   "resources": [
@@ -18,32 +18,86 @@
       "showslider": false
     }
   ],
-  "catalogs": [
-    {
-      "name": "Trending New",
-      "url": "https://desihub-kohl.vercel.app?page=1",
-      "ispagination": true,
-      "paginationurl": "https://desihub-kohl.vercel.app?page=${page}"
-    },
-    {
-      "name": "Akku",
-      "url": "https://desihub-kohl.vercel.app?page=1",
-      "ispagination": true,
-      "paginationurl": "https://desihub-kohl.vercel.app/?page=${page}"
-    },
-    {
-      "name": "Atrangi",
-      "url": "https://desihub-kohl.vercel.app?page=1",
-      "ispagination": true,
-      "paginationurl": "https://desihub-kohl.vercel.app/?page=${page}"
-    }
-  ],
+"catalogs": [
+  {
+    "name": "Trending New",
+    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub?page=1",
+    "ispagination": true,
+    "paginationurl": "https://kaamsutra.neutralhighrisk.workers.dev/desihub?page=${page}"
+  },
+  {
+    "name": "Akku",
+    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/akku?page=1",
+    "ispagination": true,
+    "paginationurl": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/akku?page=${page}"
+  },
+  {
+    "name": "Atrangii",
+    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/atrangii?page=1",
+    "ispagination": true,
+    "paginationurl": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/atrangii?page=${page}"
+  },
+  {
+    "name": "Bulbul Play",
+    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/bulbul-play?page=1",
+    "ispagination": true,
+    "paginationurl": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/bulbul-play?page=${page}"
+  },
+  {
+    "name": "Jugnu",
+    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/jugnu?page=1",
+    "ispagination": true,
+    "paginationurl": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/jugnu?page=${page}"
+  },
+  {
+    "name": "Makhan",
+    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/makhan?page=1",
+    "ispagination": true,
+    "paginationurl": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/makhan?page=${page}"
+  },
+  {
+    "name": "PrimePlay",
+    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/primeplay?page=1",
+    "ispagination": true,
+    "paginationurl": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/primeplay?page=${page}"
+  },
+  {
+    "name": "PrimeShots",
+    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/primeshots?page=1",
+    "ispagination": true,
+    "paginationurl": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/primeshots?page=${page}"
+  },
+  {
+    "name": "Rabbit",
+    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/rabbit?page=1",
+    "ispagination": true,
+    "paginationurl": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/rabbit?page=${page}"
+  },
+  {
+    "name": "Ullu",
+    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/ullu?page=1",
+    "ispagination": true,
+    "paginationurl": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/ullu?page=${page}"
+  },
+  {
+    "name": "Voovi",
+    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/voovi?page=1",
+    "ispagination": true,
+    "paginationurl": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/voovi?page=${page}"
+  },
+  {
+    "name": "Woow",
+    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/woow?page=1",
+    "ispagination": true,
+    "paginationurl": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/woow?page=${page}"
+  }
+ ],
   "searchcatalog": [
     {
       "name": "DesiHub",
-      "searchurl": "https://desihub-kohl.vercel.app/?search=${search}",
+      "searchurl": "https://kaamsutra.xyz.workers.dev/desihub/search?search=${search}",
       "ispagination": true,
-      "paginationurl": "https://desihub-kohl.vercel.app/?search=${search}&page=${page}"
+      "paginationurl": "https://kaamsutra.xyz.workers.dev/desihub/search?search=${search}&page=${page}"
     }
   ]
 }
