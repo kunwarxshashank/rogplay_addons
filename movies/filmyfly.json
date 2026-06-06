@@ -24,6 +24,24 @@
       "url": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly?page=1",
       "ispagination": true,
       "paginationurl": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly?page=${page}"
+    },
+    {
+      "name": "Hollywood Whisky",
+      "url": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly/hollywood?page=1",
+      "ispagination": true,
+      "paginationurl": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly/hollywood?page=${page}"
+    },
+    {
+      "name": "Bollywood Tadka",
+      "url": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly/bollywood?page=1",
+      "ispagination": true,
+      "paginationurl": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly/bollywood?page=${page}"
+    },
+    {
+      "name": "South-Indian Dishes",
+      "url": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly/southindian?page=1",
+      "ispagination": true,
+      "paginationurl": "https://rogplay-filmyfly.neutralhighrisk.workers.dev/api/movies/filmyfly/southindian?page=${page}"
     }
   ],
   "searchcatalog": [
