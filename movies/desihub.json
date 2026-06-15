@@ -96,7 +96,7 @@
   "searchcatalog": [
     {
       "name": "DesiHub",
-      "searchurl": "https://kaamsutra.xyz.workers.dev/desihub/search?search=${search}",
+      "searchurl": "https://kaamsutra.neutralhighrisk.workers.dev/desihub/search?search=${search}",
       "ispagination": true,
       "paginationurl": "https://kaamsutra.xyz.workers.dev/desihub/search?search=${search}&page=${page}"
     }
