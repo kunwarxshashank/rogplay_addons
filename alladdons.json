@@ -1,15 +1,5 @@
 [
   {
-    "version": "0.66.10",
-    "author": "Hayduk",
-    "title": "WebStreamr | Hayduk 🌍",
-    "logo": "https://emojiapi.dev/api/v1/spider_web/256.png",
-    "addonurl": "https://87d6a6ef6b58-webstreamrmbg.baby-beamup.club/manifest.json",
-    "url": "https://87d6a6ef6b58-webstreamrmbg.baby-beamup.club/manifest.json",
-    "type": "movie",
-    "description": "Provides HTTP URLs from streaming websites."
-  },
-  {
     "version": "1.0.0",
     "author": "thevolecitor",
     "title": "HDHub 🇬🇧🇮🇳",
@@ -18,6 +8,16 @@
     "url": "https://hdhub.thevolecitor.qzz.io/eyJ0b3Jib3giOiJ1bnNldCIsInF1YWxpdGllcyI6IjIxNjBwLDEwODBwLDcyMHAiLCJzb3J0IjoiZGVzYyJ9/manifest.json",
     "type": "movie",
     "description": "Dual Audio Movies (English+Hindi) from HDHub"
+  },
+  {
+    "version": "0.66.10",
+    "author": "Hayduk",
+    "title": "WebStreamr | Hayduk 🌍",
+    "logo": "https://emojiapi.dev/api/v1/spider_web/256.png",
+    "addonurl": "https://87d6a6ef6b58-webstreamrmbg.baby-beamup.club/manifest.json",
+    "url": "https://87d6a6ef6b58-webstreamrmbg.baby-beamup.club/manifest.json",
+    "type": "movie",
+    "description": "Provides HTTP URLs from streaming websites."
   },
   {
     "version": "4.0",
