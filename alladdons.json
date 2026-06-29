@@ -70,26 +70,6 @@
     "description": "Australian + NZ live streams with optional international TV, Sports and Additional Packs."
   },
   {
-    "version": "1.0",
-    "author": "Radio India",
-    "title": "Indian FM Radio HD",
-    "logo": "https://i.ibb.co/39sPSP95/IMG-9864.png",
-    "addonurl": "https://india-fm-radio-hd.vercel.app/manifest.json",
-    "url": "https://india-fm-radio-hd.vercel.app/manifest.json",
-    "type": "livetv",
-    "description": "Indian FM Radio Stations HD Streams. Stream FM in various languages -  Hindi, Tamil, Telugu, Malayalam, Bengali, Odia. All are free streams available on the internet. No copyright infringement intended"
-  },
-  {
-    "version": "1.0.0",
-    "author": "Lastfm Telegram",
-    "title": "Flix-Music",
-    "logo": "https://flix-music.vercel.app/logo.png",
-    "addonurl": "https://flix-music.vercel.app/manifest.json",
-    "url": "https://flix-music.vercel.app/manifest.json",
-    "type": "livetv",
-    "description": "Flix-Music: Last.fm discovery catalog with direct playback links.."
-  },
-  {
     "version": "0.66.10",
     "author": "Hayduk",
     "title": "WebStreamr | Hayduk 🌍",
@@ -161,22 +141,53 @@
   },
   {
     "version": "1.0",
+    "author": "Radio India",
+    "title": "Indian FM Radio HD",
+    "logo": "https://i.ibb.co/39sPSP95/IMG-9864.png",
+    "addonurl": "https://india-fm-radio-hd.vercel.app/manifest.json",
+    "url": "https://india-fm-radio-hd.vercel.app/manifest.json",
+    "type": "livetv",
+    "description": "Indian FM Radio Stations HD Streams. Stream FM in various languages -  Hindi, Tamil, Telugu, Malayalam, Bengali, Odia. All are free streams available on the internet. No copyright infringement intended"
+  },
+  {
+    "version": "1.0.0",
+    "author": "Lastfm Telegram",
+    "title": "Flix-Music",
+    "logo": "https://flix-music.vercel.app/logo.png",
+    "addonurl": "https://flix-music.vercel.app/manifest.json",
+    "url": "https://flix-music.vercel.app/manifest.json",
+    "type": "livetv",
+    "description": "Flix-Music: Last.fm discovery catalog with direct playback links.."
+  },
+  {
+    "version": "1.0",
+    "author": "shivam",
+    "title": "JioSaavan",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm80CKLPHoodbL_ebsjHCJqp4FT67KftknMw&s",
+    "addonurl": "https://saavanmusic.neutralhighrisk.workers.dev/manifest.json",
+    "url": "https://saavanmusic.neutralhighrisk.workers.dev/manifest.json",
+    "type": "music",
+    "description": "Play Music free from JIOSAAVAN"
+  },
+  {
+    "version": "1.0",
     "author": "Alex",
     "title": "DesiHub 🔞",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2a6npAwoTorVuvcriiac5B0VLk7aTOx9Kng&s",
     "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/desihub.json",
-    "url": "https://desihub-kohl.vercel.app",
+    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub",
     "type": "movie",
     "description": "18+ Videos from different O.T.T Sources"
   },
   {
-    "version": "2.0",
-    "author": "Rogplay",
-    "title": "TMDB Cinema",
-    "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/tmdb.jpg",
-    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/cinema.json",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/cinema.json",
-    "type": "cinema",
-    "description": "Addons to fetch movies, series, animes from different sources using tmdb api."
-  }
+    "version": "1.0",
+    "author": "shivam",
+    "title": "ViralMasti 🔞",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lwprvtTisXgA85AlUB5t6j2Vqe4XVzviUujHuTcmJ-qQ=s900-c-k-c0x00ffffff-no-rj",
+    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/viralmasti.json",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/viralmasti.json",
+    "type": "movie",
+    "description": "Viral Masti"
+  },
+  
 ]
