@@ -1,7 +1,7 @@
 [
   {
     "version": "2.0",
-      "author": "Rogplay",
+    "author": "Rogplay",
     "title": "TMDB Catalog",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8TpRfeoLQp1Qkwmz5t7pskPsggM9K_Noxg&s",
     "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/tmdbcatalog.json",
@@ -128,7 +128,7 @@
     "url": "https://streamvix.hayd.uk/%7B%22tmdbApiKey%22%3A%22%22%2C%22mediaFlowProxyUrl%22%3A%22%22%2C%22mediaFlowProxyPassword%22%3A%22%22%2C%22animeunityEnabled%22%3A%22on%22%2C%22animesaturnEnabled%22%3A%22on%22%2C%22animeworldEnabled%22%3A%22on%22%7D/manifest.json",
     "type": "movie",
     "description": "StreamViX addon con StreamingCommunity, Guardaserie, Altadefinizione, AnimeUnity, AnimeSaturn, AnimeWorld, Eurostreaming, TV ed Eventi Live"
-  },  
+  },
   {
     "version": "2.0",
     "author": "HIGHRISK",
@@ -188,6 +188,5 @@
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/viralmasti.json",
     "type": "movie",
     "description": "Viral Masti"
-  },
-  
+  }
 ]
