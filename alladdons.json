@@ -156,7 +156,7 @@
     "logo": "https://flix-music.vercel.app/logo.png",
     "addonurl": "https://flix-music.vercel.app/manifest.json",
     "url": "https://flix-music.vercel.app/manifest.json",
-    "type": "livetv",
+    "type": "music",
     "description": "Flix-Music: Last.fm discovery catalog with direct playback links.."
   },
   {
