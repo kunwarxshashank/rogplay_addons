@@ -1,6 +1,26 @@
 [
   {
     "version": "1.0.0",
+    "author": "D3adlyRocket",
+    "title": "All-in-One-Nuvio",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/rogplayicon.png",
+    "addonurl": "https://raw.githubusercontent.com/D3adlyRocket/All-in-One-Nuvio/refs/heads/main/manifest.json",
+    "url": "https://raw.githubusercontent.com/D3adlyRocket/All-in-One-Nuvio/refs/heads/main/manifest.json",
+    "type": "plugin",
+    "description": "Movie, Series, Anime, K-Drama from 50+ sites across world."
+  },
+  {
+    "version": "1.0.0",
+    "author": "Yoru's",
+    "title": "Yoru's Repo",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/rogplayicon.png",
+    "addonurl": "https://raw.githubusercontent.com/yoruix/nuvio-providers/refs/heads/main/manifest.json",
+    "url": "https://raw.githubusercontent.com/yoruix/nuvio-providers/refs/heads/main/manifest.json",
+    "type": "plugin",
+    "description": "Movie, Series, Anime, K-Drama from 30+ sites across world."
+  },
+  {
+    "version": "1.0.0",
     "author": "thevolecitor",
     "title": "HDHub 🇬🇧🇮🇳",
     "logo": "https://hdhub.thevolecitor.qzz.io/logo.png",
