@@ -1,0 +1,26 @@
+[
+      {
+        id: "castle",
+        tvurl: `${webdomain}/api/movies/castle?tmdbId=${tmdbId}&mediaType=tv&seasonNum=${season}&episodeNum=${episode}`,
+        movieurl: `${webdomain}/api/movies/castle?tmdbId=${tmdbId}&mediaType=movie`,
+        server: "Castle Stream",
+      },
+      {
+        id: "hdhub",
+        tvurl: `${webdomain}/api/movies/hdhub?tmdbId=${tmdbId}&mediaType=tv&seasonNum=${season}&episodeNum=${episode}`,
+        movieurl: `${webdomain}/api/movies/hdhub?tmdbId=${tmdbId}&mediaType=movie`,
+        server: "HDHUB",
+      },
+      {
+        id: "rogflix",
+        tvurl: `${webdomain}/api/movies/rogflix?id=${tmdbId}&season=${season}&episode=${episode}&type=series`,
+        movieurl: `${webdomain}/api/movies/rogflix?id=${tmdbId}&type=movie`,
+        server: "Multi Language",
+      },
+      {
+        id: "uhdmovies",
+        tvurl: `${webdomain}/api/movies/uhdmovies?tmdbId=${tmdbId}&mediaType=tv&seasonNum=${season}&episodeNum=${episode}`,
+        movieurl: `${webdomain}/api/movies/uhdmovies?tmdbId=${tmdbId}&mediaType=movie`,
+        server: "UHD Movies",
+      }
+    ]
