@@ -23,4 +23,4 @@
         movieurl: `${webdomain}/api/movies/uhdmovies?tmdbId=${tmdbId}&mediaType=movie`,
         server: "UHD Movies",
       }
-    ]
+]
