@@ -1,0 +1,40 @@
+{
+  "id": "org.rogplay.webxseries",
+  "title": "WebxSeries Scrapper",
+  "version": "1.0.0",
+  "description": "Scrapes WebxSeries content.",
+  "addontype": "scrapperaddon",
+  "baseUrl": "https://webxseries.gg",
+  "catalogs": [
+    {
+      "id": "latest",
+      "name": "Latest Videos",
+      "url": "https://webxseries.gg/page/{page}/",
+      "scraperRules": {
+        "container": ".videos > .video",
+        "title": { "type": "text", "selector": ".vtitle" },
+        "logo": { "type": "attribute", "selector": ".video", "attribute": "data-bg" },
+        "url": { "type": "attribute", "selector": ".video", "attribute": "href" }
+      }
+    }
+  ],
+  "search": {
+    "url": "https://webxseries.gg/page/{page}/?s={query}",
+    "scraperRules": {
+      "container": ".videos > .video",
+      "title": { "type": "text", "selector": ".vtitle" },
+      "logo": { "type": "attribute", "selector": ".video", "attribute": "data-bg" },
+      "url": { "type": "attribute", "selector": ".video", "attribute": "href" }
+    }
+  },
+  "stream": {
+    "steps": [
+      {
+        "type": "regex",
+        "pattern": "<source src=\"([^\"]+)\"",
+        "flags": "i",
+        "group": 1
+      }
+    ]
+  }
+}
