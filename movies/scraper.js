@@ -1,41 +1,49 @@
-// scraper.js
 const cheerio = require('cheerio');
 
-async function getCatalogs(url) {
-    const html = await (await fetch(url)).text();
-    const $ = cheerio.load(html);
-    const results = [];
-    
-    $('.videos > .video').each((i, el) => {
-        results.push({
-            id: encodeURIComponent($(el).attr('href')),
-            title: $(el).find('.vtitle').text().trim(),
-            logo: $(el).attr('data-bg'),
-            url: $(el).attr('href')
-        });
-    });
-    
-    return results;
-}
-
-async function getStreams(movieUrl) {
-    const html = await (await fetch(movieUrl)).text();
-    const streams = [];
-    
-    // Custom logic to bypass embedders or extract sources
-    const match = html.match(/<source src="([^"]+)"/i);
-    if (match && match[1]) {
-        streams.push({
-            title: "Direct Stream",
-            url: match[1]
-        });
-    }
-
-    return streams;
-}
-
-// Export functions for the sandbox
 module.exports = {
-    getCatalogs,
-    getStreams
+    /**
+     * Parse a catalog page (homepage or category) to return a list of movies/shows
+     * @param {string} url - The URL of the catalog page
+     * @returns {Array} List of extracted items
+     */
+    parseCatalog: async (url) => {
+        const res = await fetch(url);
+        const html = await res.text();
+        const $ = cheerio.load(html);
+        const results = [];
+        
+        $('.videos > .video').each((i, el) => {
+            results.push({
+                id: encodeURIComponent($(el).attr('href')),
+                title: $(el).find('.vtitle').text().trim(),
+                logo: $(el).attr('data-bg'),
+                url: $(el).attr('href')
+            });
+        });
+        
+        return results;
+    },
+
+    /**
+     * Extract stream links from the movie detail page
+     * @param {string} movieUrl - The URL of the movie
+     * @returns {Array} List of stream objects containing video URLs
+     */
+    extractStreams: async (movieUrl) => {
+        const res = await fetch(movieUrl);
+        const html = await res.text();
+        const streams = [];
+        
+        // Example fallback to basic regex (like your old manifest):
+        const match = html.match(/<source src="([^"]+)"/i);
+        if (match && match[1]) {
+            streams.push({
+                title: "Stream",
+                url: match[1]
+            });
+        }
+
+        return streams;
+    }
 };
+
