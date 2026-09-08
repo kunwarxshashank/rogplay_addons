@@ -22,11 +22,6 @@
   ],
   "categories": [
     {
-      "id": "9redmovies",
-      "name": "9RedMovies",
-      "url": "https://webxseries.gg/category/9redmovies/page/{page}/"
-    },
-    {
       "id": "aahaflix",
       "name": "AahaFlix",
       "url": "https://webxseries.gg/category/aahaflix/page/{page}/"
@@ -45,11 +40,6 @@
       "id": "atrangii",
       "name": "Atrangii",
       "url": "https://webxseries.gg/category/atrangii/page/{page}/"
-    },
-    {
-      "id": "jugnu",
-      "name": "Jugnu",
-      "url": "https://webxseries.gg/category/jugnu/page/{page}/"
     },
     {
       "id": "kooku",
