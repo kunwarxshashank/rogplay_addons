@@ -19,7 +19,202 @@
     {
       "id": "9redmovies",
       "name": "9RedMovies",
-      "url": "https://webxseries.gg/category/9redmovies/page/{page}/"
+      "url": "https://example.com/category/9redmovies/page/{page}/"
+    },
+    {
+      "id": "aahaflix",
+      "name": "AahaFlix",
+      "url": "https://example.com/category/aahaflix/page/{page}/"
+    },
+    {
+      "id": "akku",
+      "name": "AKKU",
+      "url": "https://example.com/category/akku/page/{page}/"
+    },
+    {
+      "id": "altt",
+      "name": "ALTT",
+      "url": "https://example.com/category/altt/page/{page}/"
+    },
+    {
+      "id": "atrangii",
+      "name": "Atrangii",
+      "url": "https://example.com/category/atrangii/page/{page}/"
+    },
+    {
+      "id": "battameez",
+      "name": "Battameez",
+      "url": "https://example.com/category/battameez/page/{page}/"
+    },
+    {
+      "id": "besharams",
+      "name": "Besharams",
+      "url": "https://example.com/category/besharams/page/{page}/"
+    },
+    {
+      "id": "big movie zoo",
+      "name": "Big Movie Zoo",
+      "url": "https://example.com/category/big-movie-zoo/page/{page}/"
+    },
+    {
+      "id": "bigshots",
+      "name": "BigShots",
+      "url": "https://example.com/category/bigshots/page/{page}/"
+    },
+    {
+      "id": "bull",
+      "name": "Bull",
+      "url": "https://example.com/category/bull/page/{page}/"
+    },
+    {
+      "id": "chiku",
+      "name": "Chiku",
+      "url": "https://example.com/category/chiku/page/{page}/"
+    },
+    {
+      "id": "chillx",
+      "name": "ChillX",
+      "url": "https://example.com/category/chillx/page/{page}/"
+    },
+    {
+      "id": "cinebox prime",
+      "name": "CineBox Prime",
+      "url": "https://example.com/category/cinebox-prime/page/{page}/"
+    },
+    {
+      "id": "cineprime",
+      "name": "CinePrime",
+      "url": "https://example.com/category/cineprime/page/{page}/"
+    },
+    {
+      "id": "crf",
+      "name": "CRF",
+      "url": "https://example.com/category/crf/page/{page}/"
+    },
+    {
+      "id": "desi prime",
+      "name": "Desi Prime",
+      "url": "https://example.com/category/desi-prime/page/{page}/"
+    },
+    {
+      "id": "digi movieplex",
+      "name": "Digi Movieplex",
+      "url": "https://example.com/category/digi-movieplex/page/{page}/"
+    },
+    {
+      "id": "dreams films",
+      "name": "Dreams Films",
+      "url": "https://example.com/category/dreams-films/page/{page}/"
+    },
+    {
+      "id": "dzyreplay",
+      "name": "Dzyreplay",
+      "url": "https://example.com/category/dzyreplay/page/{page}/"
+    },
+    {
+      "id": "habbit",
+      "name": "Habbit",
+      "url": "https://example.com/category/habbit/page/{page}/"
+    },
+    {
+      "id": "hitprime",
+      "name": "HitPrime",
+      "url": "https://example.com/category/hitprime/page/{page}/"
+    },
+    {
+      "id": "hulchul",
+      "name": "Hulchul",
+      "url": "https://example.com/category/hulchul/page/{page}/"
+    },
+    {
+      "id": "hunters",
+      "name": "Hunters",
+      "url": "https://example.com/category/hunters/page/{page}/"
+    },
+    {
+      "id": "jugnu",
+      "name": "Jugnu",
+      "url": "https://example.com/category/jugnu/page/{page}/"
+    },
+    {
+      "id": "kaama",
+      "name": "Kaama",
+      "url": "https://example.com/category/kaama/page/{page}/"
+    },
+    {
+      "id": "kahani play",
+      "name": "Kahani Play",
+      "url": "https://example.com/category/kahani-play/page/{page}/"
+    },
+    {
+      "id": "kangan",
+      "name": "Kangan",
+      "url": "https://example.com/category/kangan/page/{page}/"
+    },
+    {
+      "id": "kooku",
+      "name": "Kooku",
+      "url": "https://example.com/category/kooku/page/{page}/"
+    },
+    {
+      "id": "koyal play",
+      "name": "Koyal Play",
+      "url": "https://example.com/category/koyal-play/page/{page}/"
+    },
+    {
+      "id": "mastram",
+      "name": "Mastram",
+      "url": "https://example.com/category/mastram/page/{page}/"
+    },
+    {
+      "id": "moovi",
+      "name": "Moovi",
+      "url": "https://example.com/category/moovi/page/{page}/"
+    },
+    {
+      "id": "primeplay",
+      "name": "Primeplay",
+      "url": "https://example.com/category/primeplay/page/{page}/"
+    },
+    {
+      "id": "pull",
+      "name": "Pull",
+      "url": "https://example.com/category/pull/page/{page}/"
+    },
+    {
+      "id": "rabbit",
+      "name": "Rabbit",
+      "url": "https://example.com/category/rabbit/page/{page}/"
+    },
+    {
+      "id": "ratri",
+      "name": "Ratri",
+      "url": "https://example.com/category/ratri/page/{page}/"
+    },
+    {
+      "id": "taak",
+      "name": "Taak",
+      "url": "https://example.com/category/taak/page/{page}/"
+    },
+    {
+      "id": "ullu",
+      "name": "ULLU",
+      "url": "https://example.com/category/ullu/page/{page}/"
+    },
+    {
+      "id": "voovi",
+      "name": "VOOVI",
+      "url": "https://example.com/category/voovi-d1/page/{page}/"
+    },
+    {
+      "id": "waah",
+      "name": "Waah",
+      "url": "https://example.com/category/waah/page/{page}/"
+    },
+    {
+      "id": "woow",
+      "name": "Woow",
+      "url": "https://example.com/category/woow/page/{page}/"
     }
   ],
   "search": {
