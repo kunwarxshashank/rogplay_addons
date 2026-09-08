@@ -7,7 +7,7 @@
   "baseUrl": "https://webxseries.gg",
   
   "catalogScraperRules": {
-    "container": ".homepage-videos > .video",
+    "container": ".videos > .video",
     "title": { "type": "text", "selector": ".vtitle" },
     "logo": { "type": "attribute", "attribute": "data-bg" },
     "url": { "type": "attribute", "attribute": "href" }
@@ -22,7 +22,7 @@
   ],
 
   "categoryScraperRules": {
-    "container": ".category-videos > .video",
+    "container": ".videos > .video",
     "title": { "type": "text", "selector": ".vtitle" },
     "logo": { "type": "attribute", "attribute": "data-bg" },
     "url": { "type": "attribute", "attribute": "href" }
