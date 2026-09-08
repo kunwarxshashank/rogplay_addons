@@ -17,6 +17,7 @@
     {
       "id": "latest",
       "name": "Latest Videos",
+      "isSlider": true,
       "url": "https://webxseries.gg/page/{page}/"
     }
   ],
