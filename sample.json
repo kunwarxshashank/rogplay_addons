@@ -5,28 +5,52 @@
   "description": "Scrapes WebxSeries content.",
   "addontype": "scrapperaddon",
   "baseUrl": "https://webxseries.gg",
+  
+  "catalogScraperRules": {
+    "container": ".homepage-videos > .video",
+    "title": { "type": "text", "selector": ".vtitle" },
+    "logo": { "type": "attribute", "attribute": "data-bg" },
+    "url": { "type": "attribute", "attribute": "href" }
+  },
+
   "catalogs": [
     {
       "id": "latest",
       "name": "Latest Videos",
-      "url": "https://webxseries.gg/page/{page}/",
-      "scraperRules": {
-        "container": ".videos > .video",
-        "title": { "type": "text", "selector": ".vtitle" },
-        "logo": { "type": "attribute", "selector": ".video", "attribute": "data-bg" },
-        "url": { "type": "attribute", "selector": ".video", "attribute": "href" }
-      }
+      "url": "https://webxseries.gg/page/{page}/"
     }
   ],
+
+  "categoryScraperRules": {
+    "container": ".category-videos > .video",
+    "title": { "type": "text", "selector": ".vtitle" },
+    "logo": { "type": "attribute", "attribute": "data-bg" },
+    "url": { "type": "attribute", "attribute": "href" }
+  },
+
+  "categories": [
+    {
+      "id": "9redmovies",
+      "name": "9RedMovies",
+      "url": "https://webxseries.gg/category/9redmovies/page/{page}/"
+    },
+    {
+      "id": "akku",
+      "name": "Akku",
+      "url": "https://webxseries.gg/category/akku/page/{page}/"
+    }
+  ],
+  
   "search": {
     "url": "https://webxseries.gg/page/{page}/?s={query}",
     "scraperRules": {
       "container": ".videos > .video",
       "title": { "type": "text", "selector": ".vtitle" },
-      "logo": { "type": "attribute", "selector": ".video", "attribute": "data-bg" },
-      "url": { "type": "attribute", "selector": ".video", "attribute": "href" }
+      "logo": { "type": "attribute", "attribute": "data-bg" },
+      "url": { "type": "attribute", "attribute": "href" }
     }
   },
+  
   "stream": {
     "steps": [
       {
