@@ -8,7 +8,7 @@
     "scriptUrl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/scraper.js",
     "logo": "https://yt3.googleusercontent.com/6zblo1YAuSl1THmIxVIh28iOetcG1byGKp9AN89YdQqnNOBQy8TVcv9G7MdBhlRnDdImy9zKIos=s900-c-k-c0x00ffffff-no-rj",
     "style": {
-        "posterstyle": "plex"
+        "posterstyle": "cinematic"
     },
     "catalogs": [
         {
