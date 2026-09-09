@@ -1,68 +1,71 @@
 {
-  "id": "org.rogplay.webxseries.hybrid",
-  "title": "WebxSeries JS Scraper",
-  "version": "2.0.0",
-  "description": "Scrapes WebxSeries using local sandboxed JavaScript.",
-  "addontype": "jsaddon",
-  "baseUrl": "https://webxseries.gg",
-  "scriptUrl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/scraper.js",
-  
-  "catalogs": [
-    {
-      "id": "latest",
-      "name": "Trending Videos",
-      "isSlider": true,
-      "url": "https://webxseries.gg/page/{page}/"
+    "id": "org.rogplay.webxseries",
+    "title": "WebxSeries",
+    "version": "1.0.0",
+    "description": "Scrapes WebxSeries using local sandboxed JavaScript.",
+    "addontype": "jsaddon",
+    "baseUrl": "https://webxseries.gg",
+    "scriptUrl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/scraper.js",
+    "logo": "https://yt3.googleusercontent.com/6zblo1YAuSl1THmIxVIh28iOetcG1byGKp9AN89YdQqnNOBQy8TVcv9G7MdBhlRnDdImy9zKIos=s900-c-k-c0x00ffffff-no-rj",
+    "style": {
+        "posterstyle": "plex"
     },
-    {
-      "id": "latestvideo",
-      "name": "Latest Videos",
-      "url": "https://webxseries.gg/page/{page}/"
+    "catalogs": [
+        {
+            "id": "latest",
+            "name": "Trending Videos",
+            "isSlider": true,
+            "url": "https://webxseries.gg/page/{page}/"
+        },
+        {
+            "id": "latestvideo",
+            "name": "Latest Videos",
+            "url": "https://webxseries.gg/page/{page}/"
+        }
+    ],
+    "categories": [
+        {
+            "id": "aahaflix",
+            "name": "AahaFlix",
+            "url": "https://webxseries.gg/category/aahaflix/page/{page}/"
+        },
+        {
+            "id": "akku",
+            "name": "AKKU",
+            "url": "https://webxseries.gg/category/akku/page/{page}/"
+        },
+        {
+            "id": "altt",
+            "name": "ALTT",
+            "url": "https://webxseries.gg/category/altt/page/{page}/"
+        },
+        {
+            "id": "atrangii",
+            "name": "Atrangii",
+            "url": "https://webxseries.gg/category/atrangii/page/{page}/"
+        },
+        {
+            "id": "kooku",
+            "name": "Kooku",
+            "url": "https://webxseries.gg/category/kooku/page/{page}/"
+        },
+        {
+            "id": "rabbit",
+            "name": "Rabbit",
+            "url": "https://webxseries.gg/category/rabbit/page/{page}/"
+        },
+        {
+            "id": "ullu",
+            "name": "ULLU",
+            "url": "https://webxseries.gg/category/ullu/page/{page}/"
+        },
+        {
+            "id": "voovi",
+            "name": "VOOVI",
+            "url": "https://webxseries.gg/category/voovi-d1/page/{page}/"
+        }
+    ],
+    "search": {
+        "url": "https://webxseries.gg/page/{page}/?s={query}"
     }
-  ],
-  "categories": [
-    {
-      "id": "aahaflix",
-      "name": "AahaFlix",
-      "url": "https://webxseries.gg/category/aahaflix/page/{page}/"
-    },
-    {
-      "id": "akku",
-      "name": "AKKU",
-      "url": "https://webxseries.gg/category/akku/page/{page}/"
-    },
-    {
-      "id": "altt",
-      "name": "ALTT",
-      "url": "https://webxseries.gg/category/altt/page/{page}/"
-    },
-    {
-      "id": "atrangii",
-      "name": "Atrangii",
-      "url": "https://webxseries.gg/category/atrangii/page/{page}/"
-    },
-    {
-      "id": "kooku",
-      "name": "Kooku",
-      "url": "https://webxseries.gg/category/kooku/page/{page}/"
-    },
-    {
-      "id": "rabbit",
-      "name": "Rabbit",
-      "url": "https://webxseries.gg/category/rabbit/page/{page}/"
-    },
-    {
-      "id": "ullu",
-      "name": "ULLU",
-      "url": "https://webxseries.gg/category/ullu/page/{page}/"
-    },
-    {
-      "id": "voovi",
-      "name": "VOOVI",
-      "url": "https://webxseries.gg/category/voovi-d1/page/{page}/"
-    }
-  ],
-  "search": {
-    "url": "https://webxseries.gg/page/{page}/?s={query}"
-  }
 }
