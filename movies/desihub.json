@@ -8,7 +8,7 @@
     "scriptUrl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/scraper.js",
     "logo": "https://yt3.googleusercontent.com/6zblo1YAuSl1THmIxVIh28iOetcG1byGKp9AN89YdQqnNOBQy8TVcv9G7MdBhlRnDdImy9zKIos=s900-c-k-c0x00ffffff-no-rj",
     "style": {
-        "posterstyle": "cinematic"
+        "posterstyle": "plex"
     },
     "catalogs": [
         {
@@ -21,38 +21,6 @@
             "id": "latestvideo",
             "name": "Latest Videos",
             "url": "https://webxseries.gg/page/{page}/"
-        }
-    ],
-    "categories": [
-        {
-            "id": "aahaflix",
-            "name": "AahaFlix",
-            "url": "https://webxseries.gg/category/aahaflix/page/{page}/"
-        },
-        {
-            "id": "akku",
-            "name": "AKKU",
-            "url": "https://webxseries.gg/category/akku/page/{page}/"
-        },
-        {
-            "id": "altt",
-            "name": "ALTT",
-            "url": "https://webxseries.gg/category/altt/page/{page}/"
-        },
-        {
-            "id": "atrangii",
-            "name": "Atrangii",
-            "url": "https://webxseries.gg/category/atrangii/page/{page}/"
-        },
-        {
-            "id": "kooku",
-            "name": "Kooku",
-            "url": "https://webxseries.gg/category/kooku/page/{page}/"
-        },
-        {
-            "id": "rabbit",
-            "name": "Rabbit",
-            "url": "https://webxseries.gg/category/rabbit/page/{page}/"
         },
         {
             "id": "ullu",
@@ -63,6 +31,248 @@
             "id": "voovi",
             "name": "VOOVI",
             "url": "https://webxseries.gg/category/voovi-d1/page/{page}/"
+        }
+    ],
+    "ott": [
+        {
+            "id": "9redmovies",
+            "name": "9RedMovies",
+            "url": "https://webxseries.gg/category/9redmovies/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/9redmovies.webp"
+        },
+        {
+            "id": "aahaflix",
+            "name": "AahaFlix",
+            "url": "https://webxseries.gg/category/aahaflix/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/aahaflix.webp"
+        },
+        {
+            "id": "akku",
+            "name": "AKKU",
+            "url": "https://webxseries.gg/category/akku/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/akku.webp"
+        },
+        {
+            "id": "altt",
+            "name": "ALTT",
+            "url": "https://webxseries.gg/category/altt/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/altt.webp"
+        },
+        {
+            "id": "atrangii",
+            "name": "Atrangii",
+            "url": "https://webxseries.gg/category/atrangii/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/atrangii.webp"
+        },
+        {
+            "id": "battameez",
+            "name": "Battameez",
+            "url": "https://webxseries.gg/category/battameez/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/battameez.webp"
+        },
+        {
+            "id": "besharams",
+            "name": "Besharams",
+            "url": "https://webxseries.gg/category/besharams/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/besharams.webp"
+        },
+        {
+            "id": "big movie zoo",
+            "name": "Big Movie Zoo",
+            "url": "https://webxseries.gg/category/big-movie-zoo/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/big movie zoo.webp"
+        },
+        {
+            "id": "bigshots",
+            "name": "BigShots",
+            "url": "https://webxseries.gg/category/bigshots/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/bigshots.webp"
+        },
+        {
+            "id": "bull",
+            "name": "Bull",
+            "url": "https://webxseries.gg/category/bull/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/bull.webp"
+        },
+        {
+            "id": "chiku",
+            "name": "Chiku",
+            "url": "https://webxseries.gg/category/chiku/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/chiku.webp"
+        },
+        {
+            "id": "chillx",
+            "name": "ChillX",
+            "url": "https://webxseries.gg/category/chillx/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/chillx.webp"
+        },
+        {
+            "id": "cinebox prime",
+            "name": "CineBox Prime",
+            "url": "https://webxseries.gg/category/cinebox-prime/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/cinebox prime.webp"
+        },
+        {
+            "id": "cineprime",
+            "name": "CinePrime",
+            "url": "https://webxseries.gg/category/cineprime/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/cineprime.webp"
+        },
+        {
+            "id": "crf",
+            "name": "CRF",
+            "url": "https://webxseries.gg/category/crf/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/crf.webp"
+        },
+        {
+            "id": "desi prime",
+            "name": "Desi Prime",
+            "url": "https://webxseries.gg/category/desi-prime/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/desi prime.webp"
+        },
+        {
+            "id": "digi movieplex",
+            "name": "Digi Movieplex",
+            "url": "https://webxseries.gg/category/digi-movieplex/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/digi movieplex.webp"
+        },
+        {
+            "id": "dreams films",
+            "name": "Dreams Films",
+            "url": "https://webxseries.gg/category/dreams-films/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/dreams films.webp"
+        },
+        {
+            "id": "dzyreplay",
+            "name": "Dzyreplay",
+            "url": "https://webxseries.gg/category/dzyreplay/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/dzyreplay.webp"
+        },
+        {
+            "id": "habbit",
+            "name": "Habbit",
+            "url": "https://webxseries.gg/category/habbit/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/habbit.webp"
+        },
+        {
+            "id": "hitprime",
+            "name": "HitPrime",
+            "url": "https://webxseries.gg/category/hitprime/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/hitprime.webp"
+        },
+        {
+            "id": "hulchul",
+            "name": "Hulchul",
+            "url": "https://webxseries.gg/category/hulchul/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/hulchul.webp"
+        },
+        {
+            "id": "hunters",
+            "name": "Hunters",
+            "url": "https://webxseries.gg/category/hunters/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/hunters.webp"
+        },
+        {
+            "id": "jugnu",
+            "name": "Jugnu",
+            "url": "https://webxseries.gg/category/jugnu/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/jugnu.webp"
+        },
+        {
+            "id": "kaama",
+            "name": "Kaama",
+            "url": "https://webxseries.gg/category/kaama/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/kaama.webp"
+        },
+        {
+            "id": "kahani play",
+            "name": "Kahani Play",
+            "url": "https://webxseries.gg/category/kahani-play/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/kahani play.webp"
+        },
+        {
+            "id": "kangan",
+            "name": "Kangan",
+            "url": "https://webxseries.gg/category/kangan/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/kangan.webp"
+        },
+        {
+            "id": "kooku",
+            "name": "Kooku",
+            "url": "https://webxseries.gg/category/kooku/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/kooku.webp"
+        },
+        {
+            "id": "koyal play",
+            "name": "Koyal Play",
+            "url": "https://webxseries.gg/category/koyal-play/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/koyal play.webp"
+        },
+        {
+            "id": "mastram",
+            "name": "Mastram",
+            "url": "https://webxseries.gg/category/mastram/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/mastram.webp"
+        },
+        {
+            "id": "moovi",
+            "name": "Moovi",
+            "url": "https://webxseries.gg/category/moovi/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/moovi.webp"
+        },
+        {
+            "id": "primeplay",
+            "name": "Primeplay",
+            "url": "https://webxseries.gg/category/primeplay/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/primeplay.webp"
+        },
+        {
+            "id": "pull",
+            "name": "Pull",
+            "url": "https://webxseries.gg/category/pull/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/pull.webp"
+        },
+        {
+            "id": "rabbit",
+            "name": "Rabbit",
+            "url": "https://webxseries.gg/category/rabbit/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/rabbit.webp"
+        },
+        {
+            "id": "ratri",
+            "name": "Ratri",
+            "url": "https://webxseries.gg/category/ratri/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/ratri.webp"
+        },
+        {
+            "id": "taak",
+            "name": "Taak",
+            "url": "https://webxseries.gg/category/taak/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/taak.webp"
+        },
+        {
+            "id": "ullu",
+            "name": "ULLU",
+            "url": "https://webxseries.gg/category/ullu/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/ullu.webp"
+        },
+        {
+            "id": "voovi",
+            "name": "VOOVI",
+            "url": "https://webxseries.gg/category/voovi-d1/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/voovi.webp"
+        },
+        {
+            "id": "waah",
+            "name": "Waah",
+            "url": "https://webxseries.gg/category/waah/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/waah.webp"
+        },
+        {
+            "id": "woow",
+            "name": "Woow",
+            "url": "https://webxseries.gg/category/woow/page/{page}/",
+            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/woow.webp"
         }
     ],
     "search": {
