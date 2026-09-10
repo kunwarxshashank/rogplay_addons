@@ -25,51 +25,51 @@
     }
   ],
   "slidercatalog": {
-    "url": "https://web.rogplay.app/api/tmdb/tv/popular?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=1"
+    "url": "https://web.rogplay.app/api/tmdb/tv/popular?language=en-US&page=1"
   },
   "catalogs": [
     {
       "type": "movie",
       "name": "Trending Movie",
-      "url": "https://web.rogplay.app/api/tmdb/trending/movie/day?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=1",
+      "url": "https://web.rogplay.app/api/tmdb/trending/movie/day?language=en-US&page=1",
       "ispagination": true,
-      "paginationurl": "https://web.rogplay.app/api/tmdb/trending/movie/day?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=${page}"
+      "paginationurl": "https://web.rogplay.app/api/tmdb/trending/movie/day?language=en-US&page=${page}"
     },
     {
       "type": "series",
       "name": "Trending Series",
-      "url": "https://web.rogplay.app/api/tmdb/trending/tv/day?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=1",
+      "url": "https://web.rogplay.app/api/tmdb/trending/tv/day?language=en-US&page=1",
       "ispagination": true,
-      "paginationurl": "https://web.rogplay.app/api/tmdb/trending/tv/day?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=${page}"
+      "paginationurl": "https://web.rogplay.app/api/tmdb/trending/tv/day?language=en-US&page=${page}"
     },
     {
       "type": "movie",
       "name": "Bollywood",
-      "url": "https://web.rogplay.app/api/tmdb/discover/movie?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=1&with_original_language=hi&sort_by=popularity.desc",
+      "url": "https://web.rogplay.app/api/tmdb/discover/movie?language=en-US&page=1&with_original_language=hi&sort_by=popularity.desc",
       "ispagination": true,
-      "paginationurl": "https://web.rogplay.app/api/tmdb/discover/movie?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=${page}&with_original_language=hi&sort_by=popularity.desc"
+      "paginationurl": "https://web.rogplay.app/api/tmdb/discover/movie?language=en-US&page=${page}&with_original_language=hi&sort_by=popularity.desc"
     },
     {
       "type": "series",
       "name": "Trending Anime",
-      "url": "https://web.rogplay.app/api/tmdb/discover/tv?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=1&with_genres=16&with_original_language=ja&sort_by=popularity.desc",
+      "url": "https://web.rogplay.app/api/tmdb/discover/tv?language=en-US&page=1&with_genres=16&with_original_language=ja&sort_by=popularity.desc",
       "ispagination": true,
-      "paginationurl": "https://web.rogplay.app/api/tmdb/discover/tv?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=${page}&with_genres=16&with_original_language=ja&sort_by=popularity.desc"
+      "paginationurl": "https://web.rogplay.app/api/tmdb/discover/tv?language=en-US&page=${page}&with_genres=16&with_original_language=ja&sort_by=popularity.desc"
     },
     {
       "type": "series",
       "name": "K-Drama",
-      "url": "https://web.rogplay.app/api/tmdb/discover/tv?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=1&with_original_language=ko&sort_by=popularity.desc",
+      "url": "https://web.rogplay.app/api/tmdb/discover/tv?language=en-US&page=1&with_original_language=ko&sort_by=popularity.desc",
       "ispagination": true,
-      "paginationurl": "https://web.rogplay.app/api/tmdb/discover/tv?api_key=05902896074695709d7763505bb88b4d&language=en-US&page=${page}&with_original_language=ko&sort_by=popularity.desc"
+      "paginationurl": "https://web.rogplay.app/api/tmdb/discover/tv?language=en-US&page=${page}&with_original_language=ko&sort_by=popularity.desc"
     }
   ],
   "searchcatalog": [
     {
       "name": "Search Result",
-      "searchurl": "https://web.rogplay.app/api/tmdb/search/multi?api_key=05902896074695709d7763505bb88b4d&language=en-US&query=${search}&page=1&include_adult=false",
+      "searchurl": "https://web.rogplay.app/api/tmdb/search/multi?language=en-US&query=${search}&page=1&include_adult=false",
       "ispagination": true,
-      "paginationurl": "https://web.rogplay.app/api/tmdb/search/multi?api_key=05902896074695709d7763505bb88b4d&language=en-US&query=${search}&page=${page}&include_adult=false"
+      "paginationurl": "https://web.rogplay.app/api/tmdb/search/multi?language=en-US&query=${search}&page=${page}&include_adult=false"
     }
   ]
 }
