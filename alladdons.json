@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.0",
+    "author": "Rogplay",
+    "title": "Intenet Archive",
+    "logo": "https://pbs.twimg.com/profile_images/717127559134056448/BYGRuZmj_400x400.jpg",
+    "addonurl": "https://raw.githubusercontent.com/rogplay/rogplayaddons/refs/heads/main/internetarchive/manifest.json",
+    "url": "https://raw.githubusercontent.com/rogplay/rogplayaddons/refs/heads/main/internetarchive/manifest.json",
+    "type": "movie",
+    "description": "Collection of 17 Million + Media from Archive.org"
+  },
+  {
     "version": "1.0.0",
     "author": "D3adlyRocket",
     "title": "All-in-One-Nuvio",
@@ -190,23 +200,13 @@
     "description": "Play Music free from JIOSAAVAN"
   },
   {
-    "version": "2.0",
-    "author": "Alex",
-    "title": "DesiHub 🔞",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2a6npAwoTorVuvcriiac5B0VLk7aTOx9Kng&s",
-    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/desihub.json",
-    "url": "https://kaamsutra.neutralhighrisk.workers.dev/desihub",
-    "type": "movie",
-    "description": "18+ Videos from different O.T.T Sources"
-  },
-  {
     "version": "1.0",
     "author": "Alex",
-    "title": "ViralMasti 🔞",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lwprvtTisXgA85AlUB5t6j2Vqe4XVzviUujHuTcmJ-qQ=s900-c-k-c0x00ffffff-no-rj",
-    "addonurl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/viralmasti.json",
-    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/viralmasti.json",
-    "type": "movie",
-    "description": "Viral Masti"
+    "title": "HentaiCity",
+    "logo": "https://www.hentaicity.com/favicon.ico",
+    "addonurl": "https://raw.githubusercontent.com/rogplay/rogplayaddons/refs/heads/main/hentai/manifest.json",
+    "url": "https://raw.githubusercontent.com/rogplay/rogplayaddons/refs/heads/main/hentai/manifest.json",
+    "type": "nsfw",
+    "description": "Hentai & 3D Adult Videos from Hentaicity"
   }
 ]
